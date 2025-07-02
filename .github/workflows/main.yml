@@ -21,4 +21,5 @@ jobs:
 
       - name: Build with Maven
         run: mvn clean install
-        working-directory: backend
+        working-directory: backend/backend
+
