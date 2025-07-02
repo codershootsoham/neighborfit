@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>NeighborFit – Find Your Ideal Neighborhood</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    input[type=number] {
+      width: 100%;
+      padding: 8px;
+      margin: 8px 0 16px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    button {
+      background-color: #3498db;
+      color: white;
+      padding: 12px;
+      border: none;
+      border-radius: 6px;
+      width: 100%;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #2980b9;
+    }
+
+    #matches {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #ecf0f1;
+      border-radius: 6px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>NeighborFit</h1>
+  <p>Find neighborhoods that match your lifestyle preferences</p>
+
+  <form onsubmit="submitPreferences(event)">
+    <label for="safety">Safety (1-10):</label>
+    <input type="number" id="safety" name="safety" min="1" max="10" required />
+
+    <label for="affordability">Affordability (1-10):</label>
+    <input type="number" id="affordability" name="affordability" min="1" max="10" required />
+
+    <label for="transport">Transport (1-10):</label>
+    <input type="number" id="transport" name="transport" min="1" max="10" required />
+
+    <label for="schools">Education (1-10):</label>
+    <input type="number" id="schools" name="schools" min="1" max="10" required />
+
+    <label for="greenery">Greenery (1-10):</label>
+    <input type="number" id="greenery" name="greenery" min="1" max="10" required />
+
+    <label for="nightlife">Nightlife (1-10):</label>
+    <input type="number" id="nightlife" name="nightlife" min="1" max="10" required />
+
+    <button type="submit">Find Matches</button>
+  </form>
+
+  <div id="matches"></div>
+
+  <script>
+    async function submitPreferences(event) {
+      event.preventDefault();
+
+      const prefs = {
+        safety: parseInt(document.getElementById("safety").value),
+        affordability: parseInt(document.getElementById("affordability").value),
+        transport: parseInt(document.getElementById("transport").value),
+        schools: parseInt(document.getElementById("schools").value),
+        greenery: parseInt(document.getElementById("greenery").value),
+        nightlife: parseInt(document.getElementById("nightlife").value)
+      };
+
+      document.getElementById("matches").innerHTML = "Preferences submitted! Now processing matches...";
+
+      try {
+        const response = await fetch("http://localhost:8080/api/match", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(prefs)
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        if (data && data.length > 0) {
+          let results = "<h2>Top Matches</h2><ul>";
+          data.forEach(item => {
+            results += `<li>${item.neighborhood.name} (${item.neighborhood.city}) – Score: ${item.score.toFixed(2)}</li>`;
+          });
+          results += "</ul>";
+          document.getElementById("matches").innerHTML = results;
+        } else {
+          document.getElementById("matches").innerHTML = "No matches found.";
+        }
+      } catch (error) {
+        console.error("Error connecting to backend:", error);
+        document.getElementById("matches").innerHTML = "Something went wrong. Please try again.";
+      }
+    }
+  </script>
+
+</body>
+</html>
+
+

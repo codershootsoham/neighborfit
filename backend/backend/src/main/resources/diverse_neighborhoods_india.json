@@ -1,0 +1,10002 @@
+[
+  {
+    "name": "Agra Neighborhood 1",
+    "city": "Agra",
+    "crime": 5.0,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Ahmedabad Neighborhood 2",
+    "city": "Ahmedabad",
+    "crime": 9.4,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 3",
+    "city": "Guwahati",
+    "crime": 9.2,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Vadodara Neighborhood 4",
+    "city": "Vadodara",
+    "crime": 9.6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Mumbai Neighborhood 5",
+    "city": "Mumbai",
+    "crime": 3.4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Patna Neighborhood 6",
+    "city": "Patna",
+    "crime": 5.8,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Pune Neighborhood 7",
+    "city": "Pune",
+    "crime": 9.7,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Kolkata Neighborhood 8",
+    "city": "Kolkata",
+    "crime": 2.7,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Jodhpur Neighborhood 9",
+    "city": "Jodhpur",
+    "crime": 6.5,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Madurai Neighborhood 10",
+    "city": "Madurai",
+    "crime": 2.2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 11",
+    "city": "Pune",
+    "crime": 1.9,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Jaipur Neighborhood 12",
+    "city": "Jaipur",
+    "crime": 3.6,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Jaipur Neighborhood 13",
+    "city": "Jaipur",
+    "crime": 5.1,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Jodhpur Neighborhood 14",
+    "city": "Jodhpur",
+    "crime": 3.1,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Lucknow Neighborhood 15",
+    "city": "Lucknow",
+    "crime": 7.1,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Hyderabad Neighborhood 16",
+    "city": "Hyderabad",
+    "crime": 6.1,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 17",
+    "city": "Ahmedabad",
+    "crime": 1.7,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Pune Neighborhood 18",
+    "city": "Pune",
+    "crime": 4.2,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 19",
+    "city": "Indore",
+    "crime": 7.4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 20",
+    "city": "Surat",
+    "crime": 8.4,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 21",
+    "city": "Lucknow",
+    "crime": 5.1,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 22",
+    "city": "Pune",
+    "crime": 5.3,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Kochi Neighborhood 23",
+    "city": "Kochi",
+    "crime": 2.4,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Delhi Neighborhood 24",
+    "city": "Delhi",
+    "crime": 4.9,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Mysore Neighborhood 25",
+    "city": "Mysore",
+    "crime": 9.3,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Jaipur Neighborhood 26",
+    "city": "Jaipur",
+    "crime": 7.0,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Indore Neighborhood 27",
+    "city": "Indore",
+    "crime": 7.9,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Varanasi Neighborhood 28",
+    "city": "Varanasi",
+    "crime": 4.0,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Patna Neighborhood 29",
+    "city": "Patna",
+    "crime": 1.6,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 30",
+    "city": "Lucknow",
+    "crime": 2.8,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Patna Neighborhood 31",
+    "city": "Patna",
+    "crime": 5.8,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 32",
+    "city": "Hyderabad",
+    "crime": 2.5,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Kochi Neighborhood 33",
+    "city": "Kochi",
+    "crime": 3.9,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Lucknow Neighborhood 34",
+    "city": "Lucknow",
+    "crime": 3.7,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Amritsar Neighborhood 35",
+    "city": "Amritsar",
+    "crime": 2.0,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Bangalore Neighborhood 36",
+    "city": "Bangalore",
+    "crime": 5.1,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 37",
+    "city": "Hyderabad",
+    "crime": 9.0,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 38",
+    "city": "Patna",
+    "crime": 6.9,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Kolkata Neighborhood 39",
+    "city": "Kolkata",
+    "crime": 5.5,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Kochi Neighborhood 40",
+    "city": "Kochi",
+    "crime": 9.5,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Bangalore Neighborhood 41",
+    "city": "Bangalore",
+    "crime": 4.0,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Kochi Neighborhood 42",
+    "city": "Kochi",
+    "crime": 6.3,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Raipur Neighborhood 43",
+    "city": "Raipur",
+    "crime": 4.4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Guwahati Neighborhood 44",
+    "city": "Guwahati",
+    "crime": 5.5,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Kanpur Neighborhood 45",
+    "city": "Kanpur",
+    "crime": 1.2,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Bangalore Neighborhood 46",
+    "city": "Bangalore",
+    "crime": 1.5,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Chennai Neighborhood 47",
+    "city": "Chennai",
+    "crime": 7.8,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Bangalore Neighborhood 48",
+    "city": "Bangalore",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Jodhpur Neighborhood 49",
+    "city": "Jodhpur",
+    "crime": 1.7,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Varanasi Neighborhood 50",
+    "city": "Varanasi",
+    "crime": 5.1,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Jodhpur Neighborhood 51",
+    "city": "Jodhpur",
+    "crime": 8.5,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Delhi Neighborhood 52",
+    "city": "Delhi",
+    "crime": 7.6,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Vadodara Neighborhood 53",
+    "city": "Vadodara",
+    "crime": 7.2,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Ranchi Neighborhood 54",
+    "city": "Ranchi",
+    "crime": 6.1,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 55",
+    "city": "Indore",
+    "crime": 9.5,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Kanpur Neighborhood 56",
+    "city": "Kanpur",
+    "crime": 6.8,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Madurai Neighborhood 57",
+    "city": "Madurai",
+    "crime": 6.0,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Delhi Neighborhood 58",
+    "city": "Delhi",
+    "crime": 9.1,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Vadodara Neighborhood 59",
+    "city": "Vadodara",
+    "crime": 4.2,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Varanasi Neighborhood 60",
+    "city": "Varanasi",
+    "crime": 7.7,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 61",
+    "city": "Mumbai",
+    "crime": 2.5,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 62",
+    "city": "Indore",
+    "crime": 6.0,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Madurai Neighborhood 63",
+    "city": "Madurai",
+    "crime": 4.4,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Varanasi Neighborhood 64",
+    "city": "Varanasi",
+    "crime": 5.8,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Vadodara Neighborhood 65",
+    "city": "Vadodara",
+    "crime": 9.5,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Varanasi Neighborhood 66",
+    "city": "Varanasi",
+    "crime": 1.7,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Kolkata Neighborhood 67",
+    "city": "Kolkata",
+    "crime": 2.8,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Indore Neighborhood 68",
+    "city": "Indore",
+    "crime": 7.2,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Indore Neighborhood 69",
+    "city": "Indore",
+    "crime": 1.6,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Raipur Neighborhood 70",
+    "city": "Raipur",
+    "crime": 7.4,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 71",
+    "city": "Chandigarh",
+    "crime": 7.1,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Ludhiana Neighborhood 72",
+    "city": "Ludhiana",
+    "crime": 7.3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Patna Neighborhood 73",
+    "city": "Patna",
+    "crime": 8.9,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Chandigarh Neighborhood 74",
+    "city": "Chandigarh",
+    "crime": 9.9,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Amritsar Neighborhood 75",
+    "city": "Amritsar",
+    "crime": 8.4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Raipur Neighborhood 76",
+    "city": "Raipur",
+    "crime": 4.0,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Bangalore Neighborhood 77",
+    "city": "Bangalore",
+    "crime": 5.1,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Jodhpur Neighborhood 78",
+    "city": "Jodhpur",
+    "crime": 6.0,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Ranchi Neighborhood 79",
+    "city": "Ranchi",
+    "crime": 2.4,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Mumbai Neighborhood 80",
+    "city": "Mumbai",
+    "crime": 2.5,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Ludhiana Neighborhood 81",
+    "city": "Ludhiana",
+    "crime": 9.4,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Pune Neighborhood 82",
+    "city": "Pune",
+    "crime": 3.7,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Vadodara Neighborhood 83",
+    "city": "Vadodara",
+    "crime": 8.3,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 84",
+    "city": "Patna",
+    "crime": 1.1,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Lucknow Neighborhood 85",
+    "city": "Lucknow",
+    "crime": 4.7,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Bhopal Neighborhood 86",
+    "city": "Bhopal",
+    "crime": 5.2,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Ludhiana Neighborhood 87",
+    "city": "Ludhiana",
+    "crime": 3.5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 88",
+    "city": "Patna",
+    "crime": 6.2,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Bhopal Neighborhood 89",
+    "city": "Bhopal",
+    "crime": 6.8,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Chandigarh Neighborhood 90",
+    "city": "Chandigarh",
+    "crime": 1.4,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Ranchi Neighborhood 91",
+    "city": "Ranchi",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Bangalore Neighborhood 92",
+    "city": "Bangalore",
+    "crime": 9.3,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 93",
+    "city": "Hyderabad",
+    "crime": 1.1,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 94",
+    "city": "Indore",
+    "crime": 1.8,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Nagpur Neighborhood 95",
+    "city": "Nagpur",
+    "crime": 1.4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 96",
+    "city": "Kolkata",
+    "crime": 3.2,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Raipur Neighborhood 97",
+    "city": "Raipur",
+    "crime": 6.8,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Kochi Neighborhood 98",
+    "city": "Kochi",
+    "crime": 6.1,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Kochi Neighborhood 99",
+    "city": "Kochi",
+    "crime": 7.6,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Ahmedabad Neighborhood 100",
+    "city": "Ahmedabad",
+    "crime": 5.1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Ranchi Neighborhood 101",
+    "city": "Ranchi",
+    "crime": 1.4,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Vadodara Neighborhood 102",
+    "city": "Vadodara",
+    "crime": 9.9,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Indore Neighborhood 103",
+    "city": "Indore",
+    "crime": 8.8,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 104",
+    "city": "Vadodara",
+    "crime": 6.9,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Mumbai Neighborhood 105",
+    "city": "Mumbai",
+    "crime": 4.2,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Amritsar Neighborhood 106",
+    "city": "Amritsar",
+    "crime": 7.8,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Bangalore Neighborhood 107",
+    "city": "Bangalore",
+    "crime": 5.6,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Varanasi Neighborhood 108",
+    "city": "Varanasi",
+    "crime": 6.4,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Kolkata Neighborhood 109",
+    "city": "Kolkata",
+    "crime": 1.2,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Kanpur Neighborhood 110",
+    "city": "Kanpur",
+    "crime": 6.2,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Mysore Neighborhood 111",
+    "city": "Mysore",
+    "crime": 6.2,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Ludhiana Neighborhood 112",
+    "city": "Ludhiana",
+    "crime": 4.4,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Lucknow Neighborhood 113",
+    "city": "Lucknow",
+    "crime": 7.9,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Ranchi Neighborhood 114",
+    "city": "Ranchi",
+    "crime": 7.7,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Madurai Neighborhood 115",
+    "city": "Madurai",
+    "crime": 10.0,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Guwahati Neighborhood 116",
+    "city": "Guwahati",
+    "crime": 1.5,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Ludhiana Neighborhood 117",
+    "city": "Ludhiana",
+    "crime": 6.1,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Delhi Neighborhood 118",
+    "city": "Delhi",
+    "crime": 7.5,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Nashik Neighborhood 119",
+    "city": "Nashik",
+    "crime": 5.3,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 120",
+    "city": "Bangalore",
+    "crime": 9.9,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Ahmedabad Neighborhood 121",
+    "city": "Ahmedabad",
+    "crime": 6.9,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Amritsar Neighborhood 122",
+    "city": "Amritsar",
+    "crime": 8.5,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Pune Neighborhood 123",
+    "city": "Pune",
+    "crime": 2.1,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 124",
+    "city": "Hyderabad",
+    "crime": 1.6,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Nagpur Neighborhood 125",
+    "city": "Nagpur",
+    "crime": 5.9,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Jodhpur Neighborhood 126",
+    "city": "Jodhpur",
+    "crime": 5.4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 127",
+    "city": "Patna",
+    "crime": 3.0,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Nashik Neighborhood 128",
+    "city": "Nashik",
+    "crime": 4.3,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Jodhpur Neighborhood 129",
+    "city": "Jodhpur",
+    "crime": 7.4,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Pune Neighborhood 130",
+    "city": "Pune",
+    "crime": 1.7,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Guwahati Neighborhood 131",
+    "city": "Guwahati",
+    "crime": 7.0,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Guwahati Neighborhood 132",
+    "city": "Guwahati",
+    "crime": 8.2,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Indore Neighborhood 133",
+    "city": "Indore",
+    "crime": 7.4,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 134",
+    "city": "Lucknow",
+    "crime": 9.0,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Raipur Neighborhood 135",
+    "city": "Raipur",
+    "crime": 1.3,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Bhopal Neighborhood 136",
+    "city": "Bhopal",
+    "crime": 8.6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Madurai Neighborhood 137",
+    "city": "Madurai",
+    "crime": 4.8,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Kochi Neighborhood 138",
+    "city": "Kochi",
+    "crime": 7.7,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 139",
+    "city": "Chandigarh",
+    "crime": 6.3,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Ludhiana Neighborhood 140",
+    "city": "Ludhiana",
+    "crime": 1.5,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 141",
+    "city": "Chandigarh",
+    "crime": 2.1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Hyderabad Neighborhood 142",
+    "city": "Hyderabad",
+    "crime": 7.0,
+    "schools": 4,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Chandigarh Neighborhood 143",
+    "city": "Chandigarh",
+    "crime": 2.1,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 5
+  },
+  {
+    "name": "Varanasi Neighborhood 144",
+    "city": "Varanasi",
+    "crime": 2.7,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Ahmedabad Neighborhood 145",
+    "city": "Ahmedabad",
+    "crime": 7.6,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Chennai Neighborhood 146",
+    "city": "Chennai",
+    "crime": 7.5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Ranchi Neighborhood 147",
+    "city": "Ranchi",
+    "crime": 5.1,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Nagpur Neighborhood 148",
+    "city": "Nagpur",
+    "crime": 4.2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Ahmedabad Neighborhood 149",
+    "city": "Ahmedabad",
+    "crime": 3.8,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Vadodara Neighborhood 150",
+    "city": "Vadodara",
+    "crime": 1.0,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Delhi Neighborhood 151",
+    "city": "Delhi",
+    "crime": 5.8,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Bangalore Neighborhood 152",
+    "city": "Bangalore",
+    "crime": 2.7,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 153",
+    "city": "Guwahati",
+    "crime": 4.9,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Agra Neighborhood 154",
+    "city": "Agra",
+    "crime": 9.7,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Ahmedabad Neighborhood 155",
+    "city": "Ahmedabad",
+    "crime": 3.8,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 156",
+    "city": "Vadodara",
+    "crime": 6.4,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 157",
+    "city": "Chandigarh",
+    "crime": 9.3,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Surat Neighborhood 158",
+    "city": "Surat",
+    "crime": 8.2,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Mysore Neighborhood 159",
+    "city": "Mysore",
+    "crime": 3.9,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Vadodara Neighborhood 160",
+    "city": "Vadodara",
+    "crime": 9.2,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Mysore Neighborhood 161",
+    "city": "Mysore",
+    "crime": 8.1,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Indore Neighborhood 162",
+    "city": "Indore",
+    "crime": 2.5,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 163",
+    "city": "Mysore",
+    "crime": 1.6,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Nashik Neighborhood 164",
+    "city": "Nashik",
+    "crime": 7.9,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Vadodara Neighborhood 165",
+    "city": "Vadodara",
+    "crime": 1.9,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Nashik Neighborhood 166",
+    "city": "Nashik",
+    "crime": 8.9,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 167",
+    "city": "Nagpur",
+    "crime": 1.9,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Ludhiana Neighborhood 168",
+    "city": "Ludhiana",
+    "crime": 4.8,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Hyderabad Neighborhood 169",
+    "city": "Hyderabad",
+    "crime": 9.2,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Kolkata Neighborhood 170",
+    "city": "Kolkata",
+    "crime": 6.1,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 171",
+    "city": "Bhopal",
+    "crime": 7.5,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Agra Neighborhood 172",
+    "city": "Agra",
+    "crime": 1.9,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Mumbai Neighborhood 173",
+    "city": "Mumbai",
+    "crime": 4.1,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Chennai Neighborhood 174",
+    "city": "Chennai",
+    "crime": 7.7,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Lucknow Neighborhood 175",
+    "city": "Lucknow",
+    "crime": 4.9,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Vadodara Neighborhood 176",
+    "city": "Vadodara",
+    "crime": 3.2,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Nagpur Neighborhood 177",
+    "city": "Nagpur",
+    "crime": 3.7,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Raipur Neighborhood 178",
+    "city": "Raipur",
+    "crime": 9.7,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Kanpur Neighborhood 179",
+    "city": "Kanpur",
+    "crime": 3.6,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Kochi Neighborhood 180",
+    "city": "Kochi",
+    "crime": 3.9,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 181",
+    "city": "Kanpur",
+    "crime": 9.9,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Agra Neighborhood 182",
+    "city": "Agra",
+    "crime": 8.1,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 1
+  },
+  {
+    "name": "Raipur Neighborhood 183",
+    "city": "Raipur",
+    "crime": 2.8,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Jaipur Neighborhood 184",
+    "city": "Jaipur",
+    "crime": 9.7,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Kolkata Neighborhood 185",
+    "city": "Kolkata",
+    "crime": 5.0,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Mysore Neighborhood 186",
+    "city": "Mysore",
+    "crime": 8.1,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Kochi Neighborhood 187",
+    "city": "Kochi",
+    "crime": 1.5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Mysore Neighborhood 188",
+    "city": "Mysore",
+    "crime": 8.6,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Mysore Neighborhood 189",
+    "city": "Mysore",
+    "crime": 2.1,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Chennai Neighborhood 190",
+    "city": "Chennai",
+    "crime": 5.1,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Pune Neighborhood 191",
+    "city": "Pune",
+    "crime": 6.7,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 192",
+    "city": "Guwahati",
+    "crime": 4.7,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Amritsar Neighborhood 193",
+    "city": "Amritsar",
+    "crime": 9.9,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Guwahati Neighborhood 194",
+    "city": "Guwahati",
+    "crime": 2.3,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Varanasi Neighborhood 195",
+    "city": "Varanasi",
+    "crime": 9.4,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Pune Neighborhood 196",
+    "city": "Pune",
+    "crime": 4.0,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Kochi Neighborhood 197",
+    "city": "Kochi",
+    "crime": 6.9,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 198",
+    "city": "Hyderabad",
+    "crime": 7.5,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Kolkata Neighborhood 199",
+    "city": "Kolkata",
+    "crime": 2.1,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Varanasi Neighborhood 200",
+    "city": "Varanasi",
+    "crime": 6.3,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Pune Neighborhood 201",
+    "city": "Pune",
+    "crime": 7.0,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Kolkata Neighborhood 202",
+    "city": "Kolkata",
+    "crime": 4.9,
+    "schools": 5,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 203",
+    "city": "Chennai",
+    "crime": 9.2,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 204",
+    "city": "Chandigarh",
+    "crime": 3.1,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Jaipur Neighborhood 205",
+    "city": "Jaipur",
+    "crime": 9.4,
+    "schools": 3,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Mumbai Neighborhood 206",
+    "city": "Mumbai",
+    "crime": 8.7,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Varanasi Neighborhood 207",
+    "city": "Varanasi",
+    "crime": 8.7,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Hyderabad Neighborhood 208",
+    "city": "Hyderabad",
+    "crime": 8.2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Kochi Neighborhood 209",
+    "city": "Kochi",
+    "crime": 5.4,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 210",
+    "city": "Patna",
+    "crime": 3.3,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Ludhiana Neighborhood 211",
+    "city": "Ludhiana",
+    "crime": 5.4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Patna Neighborhood 212",
+    "city": "Patna",
+    "crime": 3.3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Ludhiana Neighborhood 213",
+    "city": "Ludhiana",
+    "crime": 8.2,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Jodhpur Neighborhood 214",
+    "city": "Jodhpur",
+    "crime": 9.2,
+    "schools": 3,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Ranchi Neighborhood 215",
+    "city": "Ranchi",
+    "crime": 4.9,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Nashik Neighborhood 216",
+    "city": "Nashik",
+    "crime": 4.4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 217",
+    "city": "Hyderabad",
+    "crime": 1.7,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Guwahati Neighborhood 218",
+    "city": "Guwahati",
+    "crime": 6.4,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 219",
+    "city": "Patna",
+    "crime": 4.4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 220",
+    "city": "Mumbai",
+    "crime": 6.3,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Kanpur Neighborhood 221",
+    "city": "Kanpur",
+    "crime": 3.3,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Jodhpur Neighborhood 222",
+    "city": "Jodhpur",
+    "crime": 8.5,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Nagpur Neighborhood 223",
+    "city": "Nagpur",
+    "crime": 9.5,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Chandigarh Neighborhood 224",
+    "city": "Chandigarh",
+    "crime": 6.5,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Jaipur Neighborhood 225",
+    "city": "Jaipur",
+    "crime": 3.2,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 226",
+    "city": "Kanpur",
+    "crime": 6.4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Chennai Neighborhood 227",
+    "city": "Chennai",
+    "crime": 7.5,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Chennai Neighborhood 228",
+    "city": "Chennai",
+    "crime": 9.3,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Kanpur Neighborhood 229",
+    "city": "Kanpur",
+    "crime": 5.7,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 230",
+    "city": "Bangalore",
+    "crime": 2.6,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Agra Neighborhood 231",
+    "city": "Agra",
+    "crime": 4.3,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Chennai Neighborhood 232",
+    "city": "Chennai",
+    "crime": 3.1,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Patna Neighborhood 233",
+    "city": "Patna",
+    "crime": 3.6,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Chandigarh Neighborhood 234",
+    "city": "Chandigarh",
+    "crime": 8.5,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Delhi Neighborhood 235",
+    "city": "Delhi",
+    "crime": 1.8,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Raipur Neighborhood 236",
+    "city": "Raipur",
+    "crime": 5.1,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Raipur Neighborhood 237",
+    "city": "Raipur",
+    "crime": 6.7,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Nagpur Neighborhood 238",
+    "city": "Nagpur",
+    "crime": 5.5,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Ranchi Neighborhood 239",
+    "city": "Ranchi",
+    "crime": 9.4,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Jodhpur Neighborhood 240",
+    "city": "Jodhpur",
+    "crime": 8.6,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 1
+  },
+  {
+    "name": "Chandigarh Neighborhood 241",
+    "city": "Chandigarh",
+    "crime": 2.7,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 242",
+    "city": "Bangalore",
+    "crime": 5.0,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Patna Neighborhood 243",
+    "city": "Patna",
+    "crime": 4.3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Surat Neighborhood 244",
+    "city": "Surat",
+    "crime": 2.7,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 245",
+    "city": "Bhopal",
+    "crime": 1.2,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 246",
+    "city": "Nashik",
+    "crime": 6.5,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 247",
+    "city": "Patna",
+    "crime": 8.3,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Amritsar Neighborhood 248",
+    "city": "Amritsar",
+    "crime": 1.2,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 249",
+    "city": "Bangalore",
+    "crime": 5.6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Amritsar Neighborhood 250",
+    "city": "Amritsar",
+    "crime": 1.2,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Pune Neighborhood 251",
+    "city": "Pune",
+    "crime": 3.7,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Delhi Neighborhood 252",
+    "city": "Delhi",
+    "crime": 8.9,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Amritsar Neighborhood 253",
+    "city": "Amritsar",
+    "crime": 1.9,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Bangalore Neighborhood 254",
+    "city": "Bangalore",
+    "crime": 1.4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Mumbai Neighborhood 255",
+    "city": "Mumbai",
+    "crime": 3.3,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 256",
+    "city": "Chandigarh",
+    "crime": 2.6,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Indore Neighborhood 257",
+    "city": "Indore",
+    "crime": 2.4,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Varanasi Neighborhood 258",
+    "city": "Varanasi",
+    "crime": 7.5,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 259",
+    "city": "Chandigarh",
+    "crime": 2.0,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Pune Neighborhood 260",
+    "city": "Pune",
+    "crime": 7.9,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Madurai Neighborhood 261",
+    "city": "Madurai",
+    "crime": 4.1,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Jaipur Neighborhood 262",
+    "city": "Jaipur",
+    "crime": 5.5,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Madurai Neighborhood 263",
+    "city": "Madurai",
+    "crime": 7.2,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Agra Neighborhood 264",
+    "city": "Agra",
+    "crime": 3.1,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Nashik Neighborhood 265",
+    "city": "Nashik",
+    "crime": 4.3,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Delhi Neighborhood 266",
+    "city": "Delhi",
+    "crime": 9.8,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 267",
+    "city": "Indore",
+    "crime": 1.3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Madurai Neighborhood 268",
+    "city": "Madurai",
+    "crime": 8.5,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Patna Neighborhood 269",
+    "city": "Patna",
+    "crime": 8.4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Kanpur Neighborhood 270",
+    "city": "Kanpur",
+    "crime": 2.9,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Madurai Neighborhood 271",
+    "city": "Madurai",
+    "crime": 3.0,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Ludhiana Neighborhood 272",
+    "city": "Ludhiana",
+    "crime": 5.6,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Patna Neighborhood 273",
+    "city": "Patna",
+    "crime": 5.3,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Raipur Neighborhood 274",
+    "city": "Raipur",
+    "crime": 2.3,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Ludhiana Neighborhood 275",
+    "city": "Ludhiana",
+    "crime": 7.8,
+    "schools": 10,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Nagpur Neighborhood 276",
+    "city": "Nagpur",
+    "crime": 9.5,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 277",
+    "city": "Bangalore",
+    "crime": 9.6,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Vadodara Neighborhood 278",
+    "city": "Vadodara",
+    "crime": 9.4,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Vadodara Neighborhood 279",
+    "city": "Vadodara",
+    "crime": 9.3,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Bhopal Neighborhood 280",
+    "city": "Bhopal",
+    "crime": 3.1,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 281",
+    "city": "Patna",
+    "crime": 8.0,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Lucknow Neighborhood 282",
+    "city": "Lucknow",
+    "crime": 8.5,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 283",
+    "city": "Ahmedabad",
+    "crime": 2.1,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 284",
+    "city": "Mysore",
+    "crime": 6.9,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Delhi Neighborhood 285",
+    "city": "Delhi",
+    "crime": 8.0,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Pune Neighborhood 286",
+    "city": "Pune",
+    "crime": 4.2,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Vadodara Neighborhood 287",
+    "city": "Vadodara",
+    "crime": 3.8,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Surat Neighborhood 288",
+    "city": "Surat",
+    "crime": 7.6,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Agra Neighborhood 289",
+    "city": "Agra",
+    "crime": 6.6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Kanpur Neighborhood 290",
+    "city": "Kanpur",
+    "crime": 4.4,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Hyderabad Neighborhood 291",
+    "city": "Hyderabad",
+    "crime": 8.1,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Madurai Neighborhood 292",
+    "city": "Madurai",
+    "crime": 7.9,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Guwahati Neighborhood 293",
+    "city": "Guwahati",
+    "crime": 1.5,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Kanpur Neighborhood 294",
+    "city": "Kanpur",
+    "crime": 3.8,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Nashik Neighborhood 295",
+    "city": "Nashik",
+    "crime": 1.8,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 296",
+    "city": "Surat",
+    "crime": 3.9,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Amritsar Neighborhood 297",
+    "city": "Amritsar",
+    "crime": 7.7,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 298",
+    "city": "Guwahati",
+    "crime": 8.6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 299",
+    "city": "Ahmedabad",
+    "crime": 1.8,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Vadodara Neighborhood 300",
+    "city": "Vadodara",
+    "crime": 5.7,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Jaipur Neighborhood 301",
+    "city": "Jaipur",
+    "crime": 4.7,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Pune Neighborhood 302",
+    "city": "Pune",
+    "crime": 3.9,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Patna Neighborhood 303",
+    "city": "Patna",
+    "crime": 8.0,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Lucknow Neighborhood 304",
+    "city": "Lucknow",
+    "crime": 5.7,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 305",
+    "city": "Mysore",
+    "crime": 8.7,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Ludhiana Neighborhood 306",
+    "city": "Ludhiana",
+    "crime": 7.4,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Ahmedabad Neighborhood 307",
+    "city": "Ahmedabad",
+    "crime": 2.1,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Indore Neighborhood 308",
+    "city": "Indore",
+    "crime": 9.8,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Raipur Neighborhood 309",
+    "city": "Raipur",
+    "crime": 6.3,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Indore Neighborhood 310",
+    "city": "Indore",
+    "crime": 5.3,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Ludhiana Neighborhood 311",
+    "city": "Ludhiana",
+    "crime": 3.1,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 9
+  },
+  {
+    "name": "Madurai Neighborhood 312",
+    "city": "Madurai",
+    "crime": 5.0,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Kochi Neighborhood 313",
+    "city": "Kochi",
+    "crime": 4.7,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Kochi Neighborhood 314",
+    "city": "Kochi",
+    "crime": 9.0,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Bangalore Neighborhood 315",
+    "city": "Bangalore",
+    "crime": 2.4,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Agra Neighborhood 316",
+    "city": "Agra",
+    "crime": 5.3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Surat Neighborhood 317",
+    "city": "Surat",
+    "crime": 8.0,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Kanpur Neighborhood 318",
+    "city": "Kanpur",
+    "crime": 2.6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Agra Neighborhood 319",
+    "city": "Agra",
+    "crime": 8.3,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Nashik Neighborhood 320",
+    "city": "Nashik",
+    "crime": 1.5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Ludhiana Neighborhood 321",
+    "city": "Ludhiana",
+    "crime": 7.6,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Kochi Neighborhood 322",
+    "city": "Kochi",
+    "crime": 4.0,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Chandigarh Neighborhood 323",
+    "city": "Chandigarh",
+    "crime": 4.2,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Varanasi Neighborhood 324",
+    "city": "Varanasi",
+    "crime": 7.4,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Delhi Neighborhood 325",
+    "city": "Delhi",
+    "crime": 1.8,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Amritsar Neighborhood 326",
+    "city": "Amritsar",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Hyderabad Neighborhood 327",
+    "city": "Hyderabad",
+    "crime": 1.7,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Lucknow Neighborhood 328",
+    "city": "Lucknow",
+    "crime": 7.2,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 329",
+    "city": "Chandigarh",
+    "crime": 8.5,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 1
+  },
+  {
+    "name": "Varanasi Neighborhood 330",
+    "city": "Varanasi",
+    "crime": 1.0,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 331",
+    "city": "Nagpur",
+    "crime": 3.0,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Lucknow Neighborhood 332",
+    "city": "Lucknow",
+    "crime": 6.9,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Hyderabad Neighborhood 333",
+    "city": "Hyderabad",
+    "crime": 1.5,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 334",
+    "city": "Nashik",
+    "crime": 3.7,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 335",
+    "city": "Bangalore",
+    "crime": 5.4,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Ahmedabad Neighborhood 336",
+    "city": "Ahmedabad",
+    "crime": 2.5,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Amritsar Neighborhood 337",
+    "city": "Amritsar",
+    "crime": 9.0,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Nashik Neighborhood 338",
+    "city": "Nashik",
+    "crime": 9.8,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Madurai Neighborhood 339",
+    "city": "Madurai",
+    "crime": 3.1,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Amritsar Neighborhood 340",
+    "city": "Amritsar",
+    "crime": 5.7,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 341",
+    "city": "Surat",
+    "crime": 9.4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 342",
+    "city": "Guwahati",
+    "crime": 5.3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Amritsar Neighborhood 343",
+    "city": "Amritsar",
+    "crime": 5.2,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Varanasi Neighborhood 344",
+    "city": "Varanasi",
+    "crime": 6.8,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Nashik Neighborhood 345",
+    "city": "Nashik",
+    "crime": 5.6,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Kanpur Neighborhood 346",
+    "city": "Kanpur",
+    "crime": 6.1,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Delhi Neighborhood 347",
+    "city": "Delhi",
+    "crime": 8.0,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Kanpur Neighborhood 348",
+    "city": "Kanpur",
+    "crime": 8.1,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Surat Neighborhood 349",
+    "city": "Surat",
+    "crime": 6.7,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Jodhpur Neighborhood 350",
+    "city": "Jodhpur",
+    "crime": 6.8,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Patna Neighborhood 351",
+    "city": "Patna",
+    "crime": 7.3,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Bangalore Neighborhood 352",
+    "city": "Bangalore",
+    "crime": 5.0,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Agra Neighborhood 353",
+    "city": "Agra",
+    "crime": 3.7,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Mumbai Neighborhood 354",
+    "city": "Mumbai",
+    "crime": 7.7,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 355",
+    "city": "Bangalore",
+    "crime": 2.2,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Kanpur Neighborhood 356",
+    "city": "Kanpur",
+    "crime": 2.2,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Delhi Neighborhood 357",
+    "city": "Delhi",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Madurai Neighborhood 358",
+    "city": "Madurai",
+    "crime": 2.4,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 359",
+    "city": "Chennai",
+    "crime": 6.3,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Kanpur Neighborhood 360",
+    "city": "Kanpur",
+    "crime": 7.1,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Hyderabad Neighborhood 361",
+    "city": "Hyderabad",
+    "crime": 7.7,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 362",
+    "city": "Bhopal",
+    "crime": 1.0,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Vadodara Neighborhood 363",
+    "city": "Vadodara",
+    "crime": 3.6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Pune Neighborhood 364",
+    "city": "Pune",
+    "crime": 3.9,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Ahmedabad Neighborhood 365",
+    "city": "Ahmedabad",
+    "crime": 5.6,
+    "schools": 4,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Kochi Neighborhood 366",
+    "city": "Kochi",
+    "crime": 8.5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Patna Neighborhood 367",
+    "city": "Patna",
+    "crime": 9.8,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Mumbai Neighborhood 368",
+    "city": "Mumbai",
+    "crime": 1.8,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Delhi Neighborhood 369",
+    "city": "Delhi",
+    "crime": 2.4,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Lucknow Neighborhood 370",
+    "city": "Lucknow",
+    "crime": 9.4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 371",
+    "city": "Hyderabad",
+    "crime": 1.3,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 372",
+    "city": "Lucknow",
+    "crime": 7.7,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Bangalore Neighborhood 373",
+    "city": "Bangalore",
+    "crime": 8.1,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 374",
+    "city": "Bangalore",
+    "crime": 9.2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Pune Neighborhood 375",
+    "city": "Pune",
+    "crime": 3.7,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Nagpur Neighborhood 376",
+    "city": "Nagpur",
+    "crime": 8.0,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Kochi Neighborhood 377",
+    "city": "Kochi",
+    "crime": 8.0,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Delhi Neighborhood 378",
+    "city": "Delhi",
+    "crime": 6.8,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Surat Neighborhood 379",
+    "city": "Surat",
+    "crime": 1.6,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Patna Neighborhood 380",
+    "city": "Patna",
+    "crime": 10.0,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 381",
+    "city": "Nashik",
+    "crime": 8.4,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Lucknow Neighborhood 382",
+    "city": "Lucknow",
+    "crime": 6.3,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Indore Neighborhood 383",
+    "city": "Indore",
+    "crime": 5.5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Varanasi Neighborhood 384",
+    "city": "Varanasi",
+    "crime": 5.7,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Delhi Neighborhood 385",
+    "city": "Delhi",
+    "crime": 3.0,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Madurai Neighborhood 386",
+    "city": "Madurai",
+    "crime": 2.0,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Agra Neighborhood 387",
+    "city": "Agra",
+    "crime": 7.9,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Varanasi Neighborhood 388",
+    "city": "Varanasi",
+    "crime": 1.6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Lucknow Neighborhood 389",
+    "city": "Lucknow",
+    "crime": 6.3,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Indore Neighborhood 390",
+    "city": "Indore",
+    "crime": 8.7,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Kolkata Neighborhood 391",
+    "city": "Kolkata",
+    "crime": 8.4,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Amritsar Neighborhood 392",
+    "city": "Amritsar",
+    "crime": 5.5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Nashik Neighborhood 393",
+    "city": "Nashik",
+    "crime": 1.9,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Guwahati Neighborhood 394",
+    "city": "Guwahati",
+    "crime": 9.8,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Ludhiana Neighborhood 395",
+    "city": "Ludhiana",
+    "crime": 1.3,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Jaipur Neighborhood 396",
+    "city": "Jaipur",
+    "crime": 8.0,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 397",
+    "city": "Patna",
+    "crime": 2.0,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Mysore Neighborhood 398",
+    "city": "Mysore",
+    "crime": 5.9,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Indore Neighborhood 399",
+    "city": "Indore",
+    "crime": 2.6,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Ahmedabad Neighborhood 400",
+    "city": "Ahmedabad",
+    "crime": 5.4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Lucknow Neighborhood 401",
+    "city": "Lucknow",
+    "crime": 6.0,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Surat Neighborhood 402",
+    "city": "Surat",
+    "crime": 1.8,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Bangalore Neighborhood 403",
+    "city": "Bangalore",
+    "crime": 7.6,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 404",
+    "city": "Surat",
+    "crime": 5.5,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Chennai Neighborhood 405",
+    "city": "Chennai",
+    "crime": 7.5,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Pune Neighborhood 406",
+    "city": "Pune",
+    "crime": 1.4,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Kanpur Neighborhood 407",
+    "city": "Kanpur",
+    "crime": 4.4,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Madurai Neighborhood 408",
+    "city": "Madurai",
+    "crime": 9.6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Kolkata Neighborhood 409",
+    "city": "Kolkata",
+    "crime": 8.3,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Kochi Neighborhood 410",
+    "city": "Kochi",
+    "crime": 9.4,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 411",
+    "city": "Patna",
+    "crime": 8.4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Kanpur Neighborhood 412",
+    "city": "Kanpur",
+    "crime": 5.0,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Ranchi Neighborhood 413",
+    "city": "Ranchi",
+    "crime": 4.6,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Mumbai Neighborhood 414",
+    "city": "Mumbai",
+    "crime": 7.7,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 415",
+    "city": "Pune",
+    "crime": 6.9,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Pune Neighborhood 416",
+    "city": "Pune",
+    "crime": 9.3,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Nagpur Neighborhood 417",
+    "city": "Nagpur",
+    "crime": 1.3,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Ludhiana Neighborhood 418",
+    "city": "Ludhiana",
+    "crime": 2.4,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Madurai Neighborhood 419",
+    "city": "Madurai",
+    "crime": 7.2,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Ranchi Neighborhood 420",
+    "city": "Ranchi",
+    "crime": 1.5,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 421",
+    "city": "Kolkata",
+    "crime": 9.5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Mysore Neighborhood 422",
+    "city": "Mysore",
+    "crime": 7.6,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 423",
+    "city": "Nashik",
+    "crime": 7.5,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 424",
+    "city": "Chennai",
+    "crime": 2.6,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Chandigarh Neighborhood 425",
+    "city": "Chandigarh",
+    "crime": 4.9,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 426",
+    "city": "Patna",
+    "crime": 9.3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 427",
+    "city": "Surat",
+    "crime": 9.9,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Vadodara Neighborhood 428",
+    "city": "Vadodara",
+    "crime": 1.7,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Ludhiana Neighborhood 429",
+    "city": "Ludhiana",
+    "crime": 2.9,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 430",
+    "city": "Vadodara",
+    "crime": 4.0,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Bangalore Neighborhood 431",
+    "city": "Bangalore",
+    "crime": 4.0,
+    "schools": 2,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Vadodara Neighborhood 432",
+    "city": "Vadodara",
+    "crime": 7.2,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Kochi Neighborhood 433",
+    "city": "Kochi",
+    "crime": 6.4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Raipur Neighborhood 434",
+    "city": "Raipur",
+    "crime": 9.3,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Raipur Neighborhood 435",
+    "city": "Raipur",
+    "crime": 2.5,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Lucknow Neighborhood 436",
+    "city": "Lucknow",
+    "crime": 4.7,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 437",
+    "city": "Mysore",
+    "crime": 9.5,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 438",
+    "city": "Hyderabad",
+    "crime": 7.7,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 10
+  },
+  {
+    "name": "Delhi Neighborhood 439",
+    "city": "Delhi",
+    "crime": 8.6,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Mumbai Neighborhood 440",
+    "city": "Mumbai",
+    "crime": 8.6,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 441",
+    "city": "Patna",
+    "crime": 3.6,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Jaipur Neighborhood 442",
+    "city": "Jaipur",
+    "crime": 2.9,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Delhi Neighborhood 443",
+    "city": "Delhi",
+    "crime": 3.2,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Madurai Neighborhood 444",
+    "city": "Madurai",
+    "crime": 7.9,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Ranchi Neighborhood 445",
+    "city": "Ranchi",
+    "crime": 8.7,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Delhi Neighborhood 446",
+    "city": "Delhi",
+    "crime": 8.4,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Bangalore Neighborhood 447",
+    "city": "Bangalore",
+    "crime": 6.5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Jaipur Neighborhood 448",
+    "city": "Jaipur",
+    "crime": 6.4,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 449",
+    "city": "Patna",
+    "crime": 7.8,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 1
+  },
+  {
+    "name": "Lucknow Neighborhood 450",
+    "city": "Lucknow",
+    "crime": 4.9,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Lucknow Neighborhood 451",
+    "city": "Lucknow",
+    "crime": 4.5,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Kochi Neighborhood 452",
+    "city": "Kochi",
+    "crime": 4.3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Kanpur Neighborhood 453",
+    "city": "Kanpur",
+    "crime": 6.4,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Mysore Neighborhood 454",
+    "city": "Mysore",
+    "crime": 5.8,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 455",
+    "city": "Chandigarh",
+    "crime": 9.6,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Chennai Neighborhood 456",
+    "city": "Chennai",
+    "crime": 7.3,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Delhi Neighborhood 457",
+    "city": "Delhi",
+    "crime": 1.3,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Kochi Neighborhood 458",
+    "city": "Kochi",
+    "crime": 8.0,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Madurai Neighborhood 459",
+    "city": "Madurai",
+    "crime": 8.1,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 460",
+    "city": "Nashik",
+    "crime": 6.6,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Delhi Neighborhood 461",
+    "city": "Delhi",
+    "crime": 7.0,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Lucknow Neighborhood 462",
+    "city": "Lucknow",
+    "crime": 4.2,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 463",
+    "city": "Hyderabad",
+    "crime": 1.8,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Mysore Neighborhood 464",
+    "city": "Mysore",
+    "crime": 4.8,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Ludhiana Neighborhood 465",
+    "city": "Ludhiana",
+    "crime": 5.2,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Madurai Neighborhood 466",
+    "city": "Madurai",
+    "crime": 1.2,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Nashik Neighborhood 467",
+    "city": "Nashik",
+    "crime": 2.1,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Nashik Neighborhood 468",
+    "city": "Nashik",
+    "crime": 7.6,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Bangalore Neighborhood 469",
+    "city": "Bangalore",
+    "crime": 4.8,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Kanpur Neighborhood 470",
+    "city": "Kanpur",
+    "crime": 2.7,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Nagpur Neighborhood 471",
+    "city": "Nagpur",
+    "crime": 7.0,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Delhi Neighborhood 472",
+    "city": "Delhi",
+    "crime": 4.8,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Indore Neighborhood 473",
+    "city": "Indore",
+    "crime": 1.8,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Mysore Neighborhood 474",
+    "city": "Mysore",
+    "crime": 8.4,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Jodhpur Neighborhood 475",
+    "city": "Jodhpur",
+    "crime": 5.8,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Jodhpur Neighborhood 476",
+    "city": "Jodhpur",
+    "crime": 5.1,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Ludhiana Neighborhood 477",
+    "city": "Ludhiana",
+    "crime": 6.1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Ahmedabad Neighborhood 478",
+    "city": "Ahmedabad",
+    "crime": 7.9,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Jaipur Neighborhood 479",
+    "city": "Jaipur",
+    "crime": 5.4,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Patna Neighborhood 480",
+    "city": "Patna",
+    "crime": 1.5,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Jaipur Neighborhood 481",
+    "city": "Jaipur",
+    "crime": 8.3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 482",
+    "city": "Chandigarh",
+    "crime": 5.2,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Surat Neighborhood 483",
+    "city": "Surat",
+    "crime": 3.6,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Chennai Neighborhood 484",
+    "city": "Chennai",
+    "crime": 6.2,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 2
+  },
+  {
+    "name": "Delhi Neighborhood 485",
+    "city": "Delhi",
+    "crime": 3.8,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 486",
+    "city": "Nashik",
+    "crime": 5.1,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 487",
+    "city": "Bhopal",
+    "crime": 7.9,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Ludhiana Neighborhood 488",
+    "city": "Ludhiana",
+    "crime": 5.7,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Patna Neighborhood 489",
+    "city": "Patna",
+    "crime": 1.2,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Mysore Neighborhood 490",
+    "city": "Mysore",
+    "crime": 8.6,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Pune Neighborhood 491",
+    "city": "Pune",
+    "crime": 3.1,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Jaipur Neighborhood 492",
+    "city": "Jaipur",
+    "crime": 5.2,
+    "schools": 10,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Jodhpur Neighborhood 493",
+    "city": "Jodhpur",
+    "crime": 1.1,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Guwahati Neighborhood 494",
+    "city": "Guwahati",
+    "crime": 4.6,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Mysore Neighborhood 495",
+    "city": "Mysore",
+    "crime": 7.8,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Varanasi Neighborhood 496",
+    "city": "Varanasi",
+    "crime": 3.5,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Bangalore Neighborhood 497",
+    "city": "Bangalore",
+    "crime": 7.7,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Chandigarh Neighborhood 498",
+    "city": "Chandigarh",
+    "crime": 5.9,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Delhi Neighborhood 499",
+    "city": "Delhi",
+    "crime": 7.9,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Chennai Neighborhood 500",
+    "city": "Chennai",
+    "crime": 9.1,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Raipur Neighborhood 501",
+    "city": "Raipur",
+    "crime": 4.2,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Amritsar Neighborhood 502",
+    "city": "Amritsar",
+    "crime": 2.5,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Vadodara Neighborhood 503",
+    "city": "Vadodara",
+    "crime": 4.2,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Guwahati Neighborhood 504",
+    "city": "Guwahati",
+    "crime": 4.2,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Kanpur Neighborhood 505",
+    "city": "Kanpur",
+    "crime": 6.9,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 506",
+    "city": "Mumbai",
+    "crime": 1.4,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 507",
+    "city": "Nagpur",
+    "crime": 2.1,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 508",
+    "city": "Kanpur",
+    "crime": 6.5,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 509",
+    "city": "Nashik",
+    "crime": 9.6,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Ahmedabad Neighborhood 510",
+    "city": "Ahmedabad",
+    "crime": 9.2,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 511",
+    "city": "Varanasi",
+    "crime": 6.2,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Ludhiana Neighborhood 512",
+    "city": "Ludhiana",
+    "crime": 3.5,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Vadodara Neighborhood 513",
+    "city": "Vadodara",
+    "crime": 4.8,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 514",
+    "city": "Chandigarh",
+    "crime": 6.4,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 515",
+    "city": "Chandigarh",
+    "crime": 4.9,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Varanasi Neighborhood 516",
+    "city": "Varanasi",
+    "crime": 3.4,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Mysore Neighborhood 517",
+    "city": "Mysore",
+    "crime": 5.7,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Pune Neighborhood 518",
+    "city": "Pune",
+    "crime": 1.1,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Ranchi Neighborhood 519",
+    "city": "Ranchi",
+    "crime": 7.1,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Amritsar Neighborhood 520",
+    "city": "Amritsar",
+    "crime": 7.6,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Chandigarh Neighborhood 521",
+    "city": "Chandigarh",
+    "crime": 8.3,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Ranchi Neighborhood 522",
+    "city": "Ranchi",
+    "crime": 6.7,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Surat Neighborhood 523",
+    "city": "Surat",
+    "crime": 8.0,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Chandigarh Neighborhood 524",
+    "city": "Chandigarh",
+    "crime": 9.1,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Kochi Neighborhood 525",
+    "city": "Kochi",
+    "crime": 7.0,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Jaipur Neighborhood 526",
+    "city": "Jaipur",
+    "crime": 7.8,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 1
+  },
+  {
+    "name": "Chennai Neighborhood 527",
+    "city": "Chennai",
+    "crime": 1.6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Nagpur Neighborhood 528",
+    "city": "Nagpur",
+    "crime": 5.1,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Kolkata Neighborhood 529",
+    "city": "Kolkata",
+    "crime": 6.7,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 4
+  },
+  {
+    "name": "Kanpur Neighborhood 530",
+    "city": "Kanpur",
+    "crime": 5.0,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 531",
+    "city": "Mumbai",
+    "crime": 7.5,
+    "schools": 4,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Ranchi Neighborhood 532",
+    "city": "Ranchi",
+    "crime": 3.4,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Kolkata Neighborhood 533",
+    "city": "Kolkata",
+    "crime": 7.1,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Lucknow Neighborhood 534",
+    "city": "Lucknow",
+    "crime": 8.0,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Bhopal Neighborhood 535",
+    "city": "Bhopal",
+    "crime": 7.0,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 1
+  },
+  {
+    "name": "Delhi Neighborhood 536",
+    "city": "Delhi",
+    "crime": 1.8,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Amritsar Neighborhood 537",
+    "city": "Amritsar",
+    "crime": 5.4,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 538",
+    "city": "Varanasi",
+    "crime": 8.9,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Guwahati Neighborhood 539",
+    "city": "Guwahati",
+    "crime": 5.6,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 540",
+    "city": "Bhopal",
+    "crime": 9.1,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Jaipur Neighborhood 541",
+    "city": "Jaipur",
+    "crime": 2.4,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Amritsar Neighborhood 542",
+    "city": "Amritsar",
+    "crime": 5.4,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Mumbai Neighborhood 543",
+    "city": "Mumbai",
+    "crime": 1.5,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 544",
+    "city": "Bangalore",
+    "crime": 1.0,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Agra Neighborhood 545",
+    "city": "Agra",
+    "crime": 2.5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Bhopal Neighborhood 546",
+    "city": "Bhopal",
+    "crime": 8.7,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Amritsar Neighborhood 547",
+    "city": "Amritsar",
+    "crime": 5.3,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Surat Neighborhood 548",
+    "city": "Surat",
+    "crime": 2.3,
+    "schools": 3,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 549",
+    "city": "Surat",
+    "crime": 3.5,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Surat Neighborhood 550",
+    "city": "Surat",
+    "crime": 1.8,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 551",
+    "city": "Pune",
+    "crime": 4.5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Jaipur Neighborhood 552",
+    "city": "Jaipur",
+    "crime": 2.1,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Surat Neighborhood 553",
+    "city": "Surat",
+    "crime": 2.1,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 554",
+    "city": "Patna",
+    "crime": 6.4,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Kochi Neighborhood 555",
+    "city": "Kochi",
+    "crime": 6.3,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Chandigarh Neighborhood 556",
+    "city": "Chandigarh",
+    "crime": 5.8,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 557",
+    "city": "Bangalore",
+    "crime": 4.2,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Madurai Neighborhood 558",
+    "city": "Madurai",
+    "crime": 6.2,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Chennai Neighborhood 559",
+    "city": "Chennai",
+    "crime": 3.5,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Kochi Neighborhood 560",
+    "city": "Kochi",
+    "crime": 2.5,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Ahmedabad Neighborhood 561",
+    "city": "Ahmedabad",
+    "crime": 7.6,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 562",
+    "city": "Patna",
+    "crime": 7.6,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Madurai Neighborhood 563",
+    "city": "Madurai",
+    "crime": 5.9,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Amritsar Neighborhood 564",
+    "city": "Amritsar",
+    "crime": 2.9,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Ranchi Neighborhood 565",
+    "city": "Ranchi",
+    "crime": 2.8,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 566",
+    "city": "Chandigarh",
+    "crime": 2.7,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Varanasi Neighborhood 567",
+    "city": "Varanasi",
+    "crime": 4.3,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Bhopal Neighborhood 568",
+    "city": "Bhopal",
+    "crime": 4.7,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Delhi Neighborhood 569",
+    "city": "Delhi",
+    "crime": 4.4,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Hyderabad Neighborhood 570",
+    "city": "Hyderabad",
+    "crime": 3.8,
+    "schools": 10,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 571",
+    "city": "Kanpur",
+    "crime": 6.6,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 572",
+    "city": "Hyderabad",
+    "crime": 4.5,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Mysore Neighborhood 573",
+    "city": "Mysore",
+    "crime": 5.7,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Hyderabad Neighborhood 574",
+    "city": "Hyderabad",
+    "crime": 9.0,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 575",
+    "city": "Indore",
+    "crime": 6.5,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Delhi Neighborhood 576",
+    "city": "Delhi",
+    "crime": 8.5,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 577",
+    "city": "Patna",
+    "crime": 1.2,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Nashik Neighborhood 578",
+    "city": "Nashik",
+    "crime": 2.5,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Hyderabad Neighborhood 579",
+    "city": "Hyderabad",
+    "crime": 9.9,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Hyderabad Neighborhood 580",
+    "city": "Hyderabad",
+    "crime": 4.9,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 581",
+    "city": "Nashik",
+    "crime": 6.9,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 6
+  },
+  {
+    "name": "Ahmedabad Neighborhood 582",
+    "city": "Ahmedabad",
+    "crime": 9.0,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Pune Neighborhood 583",
+    "city": "Pune",
+    "crime": 7.9,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Kanpur Neighborhood 584",
+    "city": "Kanpur",
+    "crime": 6.8,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Varanasi Neighborhood 585",
+    "city": "Varanasi",
+    "crime": 5.5,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Patna Neighborhood 586",
+    "city": "Patna",
+    "crime": 9.2,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Vadodara Neighborhood 587",
+    "city": "Vadodara",
+    "crime": 4.7,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Jodhpur Neighborhood 588",
+    "city": "Jodhpur",
+    "crime": 2.7,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Patna Neighborhood 589",
+    "city": "Patna",
+    "crime": 8.7,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 590",
+    "city": "Mysore",
+    "crime": 9.5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Nagpur Neighborhood 591",
+    "city": "Nagpur",
+    "crime": 5.9,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 592",
+    "city": "Mysore",
+    "crime": 4.8,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 593",
+    "city": "Chennai",
+    "crime": 4.4,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 594",
+    "city": "Surat",
+    "crime": 8.5,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 595",
+    "city": "Nashik",
+    "crime": 2.1,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Lucknow Neighborhood 596",
+    "city": "Lucknow",
+    "crime": 2.3,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 597",
+    "city": "Surat",
+    "crime": 8.2,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Ahmedabad Neighborhood 598",
+    "city": "Ahmedabad",
+    "crime": 4.7,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 599",
+    "city": "Mumbai",
+    "crime": 5.8,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 600",
+    "city": "Bhopal",
+    "crime": 4.3,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 601",
+    "city": "Nagpur",
+    "crime": 9.2,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Varanasi Neighborhood 602",
+    "city": "Varanasi",
+    "crime": 9.6,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 603",
+    "city": "Hyderabad",
+    "crime": 2.5,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Vadodara Neighborhood 604",
+    "city": "Vadodara",
+    "crime": 7.4,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Nagpur Neighborhood 605",
+    "city": "Nagpur",
+    "crime": 7.2,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 606",
+    "city": "Mysore",
+    "crime": 7.4,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Pune Neighborhood 607",
+    "city": "Pune",
+    "crime": 7.6,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Ahmedabad Neighborhood 608",
+    "city": "Ahmedabad",
+    "crime": 6.8,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Jodhpur Neighborhood 609",
+    "city": "Jodhpur",
+    "crime": 6.3,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 5
+  },
+  {
+    "name": "Ludhiana Neighborhood 610",
+    "city": "Ludhiana",
+    "crime": 4.1,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Vadodara Neighborhood 611",
+    "city": "Vadodara",
+    "crime": 5.6,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 612",
+    "city": "Ahmedabad",
+    "crime": 2.9,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 613",
+    "city": "Pune",
+    "crime": 7.8,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 614",
+    "city": "Nashik",
+    "crime": 6.4,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Varanasi Neighborhood 615",
+    "city": "Varanasi",
+    "crime": 1.3,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Madurai Neighborhood 616",
+    "city": "Madurai",
+    "crime": 7.7,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Kanpur Neighborhood 617",
+    "city": "Kanpur",
+    "crime": 3.7,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Chandigarh Neighborhood 618",
+    "city": "Chandigarh",
+    "crime": 6.6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Ahmedabad Neighborhood 619",
+    "city": "Ahmedabad",
+    "crime": 7.9,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Mumbai Neighborhood 620",
+    "city": "Mumbai",
+    "crime": 2.6,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Jodhpur Neighborhood 621",
+    "city": "Jodhpur",
+    "crime": 3.5,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Hyderabad Neighborhood 622",
+    "city": "Hyderabad",
+    "crime": 3.2,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Agra Neighborhood 623",
+    "city": "Agra",
+    "crime": 6.4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Indore Neighborhood 624",
+    "city": "Indore",
+    "crime": 7.9,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Kochi Neighborhood 625",
+    "city": "Kochi",
+    "crime": 2.9,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Guwahati Neighborhood 626",
+    "city": "Guwahati",
+    "crime": 3.9,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 627",
+    "city": "Chennai",
+    "crime": 3.6,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Hyderabad Neighborhood 628",
+    "city": "Hyderabad",
+    "crime": 4.3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Chandigarh Neighborhood 629",
+    "city": "Chandigarh",
+    "crime": 4.9,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 630",
+    "city": "Nashik",
+    "crime": 9.7,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 631",
+    "city": "Surat",
+    "crime": 9.8,
+    "schools": 4,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Ahmedabad Neighborhood 632",
+    "city": "Ahmedabad",
+    "crime": 7.9,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 633",
+    "city": "Mysore",
+    "crime": 4.6,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Chandigarh Neighborhood 634",
+    "city": "Chandigarh",
+    "crime": 9.8,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 5
+  },
+  {
+    "name": "Chandigarh Neighborhood 635",
+    "city": "Chandigarh",
+    "crime": 9.2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Jodhpur Neighborhood 636",
+    "city": "Jodhpur",
+    "crime": 5.1,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Guwahati Neighborhood 637",
+    "city": "Guwahati",
+    "crime": 9.5,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 7
+  },
+  {
+    "name": "Surat Neighborhood 638",
+    "city": "Surat",
+    "crime": 6.4,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Jaipur Neighborhood 639",
+    "city": "Jaipur",
+    "crime": 4.6,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Amritsar Neighborhood 640",
+    "city": "Amritsar",
+    "crime": 8.1,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Delhi Neighborhood 641",
+    "city": "Delhi",
+    "crime": 2.5,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Patna Neighborhood 642",
+    "city": "Patna",
+    "crime": 9.6,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Indore Neighborhood 643",
+    "city": "Indore",
+    "crime": 2.1,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Chennai Neighborhood 644",
+    "city": "Chennai",
+    "crime": 3.2,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Nashik Neighborhood 645",
+    "city": "Nashik",
+    "crime": 7.1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Hyderabad Neighborhood 646",
+    "city": "Hyderabad",
+    "crime": 6.9,
+    "schools": 4,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Amritsar Neighborhood 647",
+    "city": "Amritsar",
+    "crime": 6.6,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Indore Neighborhood 648",
+    "city": "Indore",
+    "crime": 2.1,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Kolkata Neighborhood 649",
+    "city": "Kolkata",
+    "crime": 5.6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 650",
+    "city": "Chandigarh",
+    "crime": 4.3,
+    "schools": 3,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Vadodara Neighborhood 651",
+    "city": "Vadodara",
+    "crime": 5.8,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Pune Neighborhood 652",
+    "city": "Pune",
+    "crime": 1.8,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Surat Neighborhood 653",
+    "city": "Surat",
+    "crime": 4.3,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Bangalore Neighborhood 654",
+    "city": "Bangalore",
+    "crime": 9.2,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Raipur Neighborhood 655",
+    "city": "Raipur",
+    "crime": 5.3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Delhi Neighborhood 656",
+    "city": "Delhi",
+    "crime": 2.3,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Patna Neighborhood 657",
+    "city": "Patna",
+    "crime": 5.7,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 658",
+    "city": "Surat",
+    "crime": 2.7,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Indore Neighborhood 659",
+    "city": "Indore",
+    "crime": 2.6,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Hyderabad Neighborhood 660",
+    "city": "Hyderabad",
+    "crime": 9.0,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 1,
+    "transport": 2
+  },
+  {
+    "name": "Jaipur Neighborhood 661",
+    "city": "Jaipur",
+    "crime": 9.4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Surat Neighborhood 662",
+    "city": "Surat",
+    "crime": 3.8,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 9
+  },
+  {
+    "name": "Raipur Neighborhood 663",
+    "city": "Raipur",
+    "crime": 4.3,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Raipur Neighborhood 664",
+    "city": "Raipur",
+    "crime": 7.0,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Ahmedabad Neighborhood 665",
+    "city": "Ahmedabad",
+    "crime": 9.5,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 666",
+    "city": "Nashik",
+    "crime": 1.0,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Nagpur Neighborhood 667",
+    "city": "Nagpur",
+    "crime": 5.3,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Nashik Neighborhood 668",
+    "city": "Nashik",
+    "crime": 3.5,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Kanpur Neighborhood 669",
+    "city": "Kanpur",
+    "crime": 1.9,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Jodhpur Neighborhood 670",
+    "city": "Jodhpur",
+    "crime": 6.3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 671",
+    "city": "Nashik",
+    "crime": 8.6,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 672",
+    "city": "Hyderabad",
+    "crime": 2.6,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Indore Neighborhood 673",
+    "city": "Indore",
+    "crime": 1.8,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Patna Neighborhood 674",
+    "city": "Patna",
+    "crime": 2.2,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 675",
+    "city": "Kanpur",
+    "crime": 5.7,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Guwahati Neighborhood 676",
+    "city": "Guwahati",
+    "crime": 8.9,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Bangalore Neighborhood 677",
+    "city": "Bangalore",
+    "crime": 4.2,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 678",
+    "city": "Chennai",
+    "crime": 2.9,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 6,
+    "transport": 9
+  },
+  {
+    "name": "Surat Neighborhood 679",
+    "city": "Surat",
+    "crime": 1.7,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Jodhpur Neighborhood 680",
+    "city": "Jodhpur",
+    "crime": 8.4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 681",
+    "city": "Nagpur",
+    "crime": 2.4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Madurai Neighborhood 682",
+    "city": "Madurai",
+    "crime": 9.5,
+    "schools": 10,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Varanasi Neighborhood 683",
+    "city": "Varanasi",
+    "crime": 8.1,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Kanpur Neighborhood 684",
+    "city": "Kanpur",
+    "crime": 2.6,
+    "schools": 5,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Madurai Neighborhood 685",
+    "city": "Madurai",
+    "crime": 8.8,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Amritsar Neighborhood 686",
+    "city": "Amritsar",
+    "crime": 6.6,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Jaipur Neighborhood 687",
+    "city": "Jaipur",
+    "crime": 2.4,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 688",
+    "city": "Chandigarh",
+    "crime": 1.9,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 689",
+    "city": "Kolkata",
+    "crime": 7.7,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Guwahati Neighborhood 690",
+    "city": "Guwahati",
+    "crime": 6.2,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 6
+  },
+  {
+    "name": "Chennai Neighborhood 691",
+    "city": "Chennai",
+    "crime": 7.4,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Ahmedabad Neighborhood 692",
+    "city": "Ahmedabad",
+    "crime": 8.6,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Ludhiana Neighborhood 693",
+    "city": "Ludhiana",
+    "crime": 3.5,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Lucknow Neighborhood 694",
+    "city": "Lucknow",
+    "crime": 3.3,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 695",
+    "city": "Chandigarh",
+    "crime": 2.5,
+    "schools": 3,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Kolkata Neighborhood 696",
+    "city": "Kolkata",
+    "crime": 4.8,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Delhi Neighborhood 697",
+    "city": "Delhi",
+    "crime": 2.3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 698",
+    "city": "Lucknow",
+    "crime": 8.5,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 2
+  },
+  {
+    "name": "Amritsar Neighborhood 699",
+    "city": "Amritsar",
+    "crime": 6.8,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Kanpur Neighborhood 700",
+    "city": "Kanpur",
+    "crime": 8.1,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 2
+  },
+  {
+    "name": "Madurai Neighborhood 701",
+    "city": "Madurai",
+    "crime": 5.0,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Ranchi Neighborhood 702",
+    "city": "Ranchi",
+    "crime": 5.0,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 1
+  },
+  {
+    "name": "Surat Neighborhood 703",
+    "city": "Surat",
+    "crime": 7.6,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 704",
+    "city": "Nashik",
+    "crime": 3.3,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Kochi Neighborhood 705",
+    "city": "Kochi",
+    "crime": 7.5,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 1
+  },
+  {
+    "name": "Lucknow Neighborhood 706",
+    "city": "Lucknow",
+    "crime": 2.4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Delhi Neighborhood 707",
+    "city": "Delhi",
+    "crime": 6.5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 708",
+    "city": "Pune",
+    "crime": 7.3,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Ludhiana Neighborhood 709",
+    "city": "Ludhiana",
+    "crime": 8.6,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 710",
+    "city": "Bangalore",
+    "crime": 7.2,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 711",
+    "city": "Ahmedabad",
+    "crime": 1.7,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Bhopal Neighborhood 712",
+    "city": "Bhopal",
+    "crime": 8.8,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Mysore Neighborhood 713",
+    "city": "Mysore",
+    "crime": 5.9,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Mumbai Neighborhood 714",
+    "city": "Mumbai",
+    "crime": 9.8,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 715",
+    "city": "Chennai",
+    "crime": 7.0,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Chandigarh Neighborhood 716",
+    "city": "Chandigarh",
+    "crime": 6.9,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Agra Neighborhood 717",
+    "city": "Agra",
+    "crime": 5.4,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Ranchi Neighborhood 718",
+    "city": "Ranchi",
+    "crime": 1.0,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Indore Neighborhood 719",
+    "city": "Indore",
+    "crime": 7.7,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Bhopal Neighborhood 720",
+    "city": "Bhopal",
+    "crime": 7.6,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Bhopal Neighborhood 721",
+    "city": "Bhopal",
+    "crime": 5.7,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Ahmedabad Neighborhood 722",
+    "city": "Ahmedabad",
+    "crime": 3.9,
+    "schools": 2,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 723",
+    "city": "Vadodara",
+    "crime": 4.1,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 724",
+    "city": "Chennai",
+    "crime": 5.0,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Guwahati Neighborhood 725",
+    "city": "Guwahati",
+    "crime": 6.0,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 726",
+    "city": "Chandigarh",
+    "crime": 7.1,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Raipur Neighborhood 727",
+    "city": "Raipur",
+    "crime": 5.2,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Vadodara Neighborhood 728",
+    "city": "Vadodara",
+    "crime": 7.7,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 6,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Mysore Neighborhood 729",
+    "city": "Mysore",
+    "crime": 2.2,
+    "schools": 4,
+    "nightlife": 7,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Pune Neighborhood 730",
+    "city": "Pune",
+    "crime": 9.0,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Chandigarh Neighborhood 731",
+    "city": "Chandigarh",
+    "crime": 7.3,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Raipur Neighborhood 732",
+    "city": "Raipur",
+    "crime": 3.3,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 733",
+    "city": "Indore",
+    "crime": 4.5,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Bhopal Neighborhood 734",
+    "city": "Bhopal",
+    "crime": 7.0,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 735",
+    "city": "Nashik",
+    "crime": 4.0,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Jodhpur Neighborhood 736",
+    "city": "Jodhpur",
+    "crime": 8.5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Chennai Neighborhood 737",
+    "city": "Chennai",
+    "crime": 3.8,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Guwahati Neighborhood 738",
+    "city": "Guwahati",
+    "crime": 5.2,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Surat Neighborhood 739",
+    "city": "Surat",
+    "crime": 2.5,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Madurai Neighborhood 740",
+    "city": "Madurai",
+    "crime": 1.2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Patna Neighborhood 741",
+    "city": "Patna",
+    "crime": 7.7,
+    "schools": 4,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Amritsar Neighborhood 742",
+    "city": "Amritsar",
+    "crime": 4.3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Indore Neighborhood 743",
+    "city": "Indore",
+    "crime": 8.9,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 9
+  },
+  {
+    "name": "Delhi Neighborhood 744",
+    "city": "Delhi",
+    "crime": 3.2,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Delhi Neighborhood 745",
+    "city": "Delhi",
+    "crime": 1.8,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Nashik Neighborhood 746",
+    "city": "Nashik",
+    "crime": 3.4,
+    "schools": 5,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Lucknow Neighborhood 747",
+    "city": "Lucknow",
+    "crime": 8.6,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 2
+  },
+  {
+    "name": "Surat Neighborhood 748",
+    "city": "Surat",
+    "crime": 8.1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Mumbai Neighborhood 749",
+    "city": "Mumbai",
+    "crime": 6.8,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 4
+  },
+  {
+    "name": "Nagpur Neighborhood 750",
+    "city": "Nagpur",
+    "crime": 1.5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Ranchi Neighborhood 751",
+    "city": "Ranchi",
+    "crime": 8.5,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Kolkata Neighborhood 752",
+    "city": "Kolkata",
+    "crime": 7.1,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Nashik Neighborhood 753",
+    "city": "Nashik",
+    "crime": 3.3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 754",
+    "city": "Bhopal",
+    "crime": 4.1,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Ahmedabad Neighborhood 755",
+    "city": "Ahmedabad",
+    "crime": 6.2,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 756",
+    "city": "Surat",
+    "crime": 7.8,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Mysore Neighborhood 757",
+    "city": "Mysore",
+    "crime": 8.0,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Kanpur Neighborhood 758",
+    "city": "Kanpur",
+    "crime": 1.9,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 759",
+    "city": "Nashik",
+    "crime": 5.4,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 9
+  },
+  {
+    "name": "Vadodara Neighborhood 760",
+    "city": "Vadodara",
+    "crime": 3.1,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Ranchi Neighborhood 761",
+    "city": "Ranchi",
+    "crime": 3.8,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Kolkata Neighborhood 762",
+    "city": "Kolkata",
+    "crime": 8.2,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Ranchi Neighborhood 763",
+    "city": "Ranchi",
+    "crime": 9.5,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Ahmedabad Neighborhood 764",
+    "city": "Ahmedabad",
+    "crime": 4.0,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 765",
+    "city": "Indore",
+    "crime": 6.0,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Jaipur Neighborhood 766",
+    "city": "Jaipur",
+    "crime": 6.5,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Madurai Neighborhood 767",
+    "city": "Madurai",
+    "crime": 6.8,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Kanpur Neighborhood 768",
+    "city": "Kanpur",
+    "crime": 9.3,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 3,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Nagpur Neighborhood 769",
+    "city": "Nagpur",
+    "crime": 4.4,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Mumbai Neighborhood 770",
+    "city": "Mumbai",
+    "crime": 8.2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Raipur Neighborhood 771",
+    "city": "Raipur",
+    "crime": 3.8,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 772",
+    "city": "Chandigarh",
+    "crime": 8.2,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 7,
+    "transport": 5
+  },
+  {
+    "name": "Patna Neighborhood 773",
+    "city": "Patna",
+    "crime": 1.1,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Hyderabad Neighborhood 774",
+    "city": "Hyderabad",
+    "crime": 3.7,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Surat Neighborhood 775",
+    "city": "Surat",
+    "crime": 6.8,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 9
+  },
+  {
+    "name": "Nashik Neighborhood 776",
+    "city": "Nashik",
+    "crime": 3.6,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Kochi Neighborhood 777",
+    "city": "Kochi",
+    "crime": 3.9,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Pune Neighborhood 778",
+    "city": "Pune",
+    "crime": 5.9,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Chandigarh Neighborhood 779",
+    "city": "Chandigarh",
+    "crime": 3.5,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Bhopal Neighborhood 780",
+    "city": "Bhopal",
+    "crime": 9.5,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Kochi Neighborhood 781",
+    "city": "Kochi",
+    "crime": 6.4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Jodhpur Neighborhood 782",
+    "city": "Jodhpur",
+    "crime": 7.4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Jaipur Neighborhood 783",
+    "city": "Jaipur",
+    "crime": 1.0,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 7,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 784",
+    "city": "Mysore",
+    "crime": 3.2,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 6
+  },
+  {
+    "name": "Indore Neighborhood 785",
+    "city": "Indore",
+    "crime": 2.7,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Mumbai Neighborhood 786",
+    "city": "Mumbai",
+    "crime": 4.4,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 8,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Kanpur Neighborhood 787",
+    "city": "Kanpur",
+    "crime": 1.6,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Chennai Neighborhood 788",
+    "city": "Chennai",
+    "crime": 9.6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Pune Neighborhood 789",
+    "city": "Pune",
+    "crime": 8.2,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Nashik Neighborhood 790",
+    "city": "Nashik",
+    "crime": 8.5,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Pune Neighborhood 791",
+    "city": "Pune",
+    "crime": 3.2,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Nashik Neighborhood 792",
+    "city": "Nashik",
+    "crime": 7.1,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Hyderabad Neighborhood 793",
+    "city": "Hyderabad",
+    "crime": 5.7,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 8,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Jaipur Neighborhood 794",
+    "city": "Jaipur",
+    "crime": 1.2,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Indore Neighborhood 795",
+    "city": "Indore",
+    "crime": 7.6,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 796",
+    "city": "Indore",
+    "crime": 1.9,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 797",
+    "city": "Patna",
+    "crime": 8.6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Kolkata Neighborhood 798",
+    "city": "Kolkata",
+    "crime": 9.1,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 799",
+    "city": "Varanasi",
+    "crime": 2.3,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 7
+  },
+  {
+    "name": "Nagpur Neighborhood 800",
+    "city": "Nagpur",
+    "crime": 9.7,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Vadodara Neighborhood 801",
+    "city": "Vadodara",
+    "crime": 4.7,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Jodhpur Neighborhood 802",
+    "city": "Jodhpur",
+    "crime": 3.2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 803",
+    "city": "Kolkata",
+    "crime": 6.0,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Chandigarh Neighborhood 804",
+    "city": "Chandigarh",
+    "crime": 3.8,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Chandigarh Neighborhood 805",
+    "city": "Chandigarh",
+    "crime": 7.8,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Mumbai Neighborhood 806",
+    "city": "Mumbai",
+    "crime": 8.4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Madurai Neighborhood 807",
+    "city": "Madurai",
+    "crime": 1.8,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Madurai Neighborhood 808",
+    "city": "Madurai",
+    "crime": 1.9,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 809",
+    "city": "Mysore",
+    "crime": 6.9,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Delhi Neighborhood 810",
+    "city": "Delhi",
+    "crime": 2.7,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Bhopal Neighborhood 811",
+    "city": "Bhopal",
+    "crime": 6.6,
+    "schools": 1,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Agra Neighborhood 812",
+    "city": "Agra",
+    "crime": 7.4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Varanasi Neighborhood 813",
+    "city": "Varanasi",
+    "crime": 7.0,
+    "schools": 2,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Ranchi Neighborhood 814",
+    "city": "Ranchi",
+    "crime": 4.7,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Ahmedabad Neighborhood 815",
+    "city": "Ahmedabad",
+    "crime": 4.7,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Indore Neighborhood 816",
+    "city": "Indore",
+    "crime": 2.3,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Patna Neighborhood 817",
+    "city": "Patna",
+    "crime": 9.0,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 818",
+    "city": "Chennai",
+    "crime": 1.3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Varanasi Neighborhood 819",
+    "city": "Varanasi",
+    "crime": 2.8,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Jaipur Neighborhood 820",
+    "city": "Jaipur",
+    "crime": 8.0,
+    "schools": 6,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Kolkata Neighborhood 821",
+    "city": "Kolkata",
+    "crime": 2.7,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Amritsar Neighborhood 822",
+    "city": "Amritsar",
+    "crime": 2.3,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Jaipur Neighborhood 823",
+    "city": "Jaipur",
+    "crime": 2.1,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Vadodara Neighborhood 824",
+    "city": "Vadodara",
+    "crime": 7.3,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Chandigarh Neighborhood 825",
+    "city": "Chandigarh",
+    "crime": 4.5,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Indore Neighborhood 826",
+    "city": "Indore",
+    "crime": 6.4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Varanasi Neighborhood 827",
+    "city": "Varanasi",
+    "crime": 1.9,
+    "schools": 3,
+    "nightlife": 4,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Chandigarh Neighborhood 828",
+    "city": "Chandigarh",
+    "crime": 7.5,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Lucknow Neighborhood 829",
+    "city": "Lucknow",
+    "crime": 8.3,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Lucknow Neighborhood 830",
+    "city": "Lucknow",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Vadodara Neighborhood 831",
+    "city": "Vadodara",
+    "crime": 4.0,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Mumbai Neighborhood 832",
+    "city": "Mumbai",
+    "crime": 2.5,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Raipur Neighborhood 833",
+    "city": "Raipur",
+    "crime": 5.7,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Nashik Neighborhood 834",
+    "city": "Nashik",
+    "crime": 8.3,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 1,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 835",
+    "city": "Indore",
+    "crime": 7.9,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Amritsar Neighborhood 836",
+    "city": "Amritsar",
+    "crime": 8.9,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Nashik Neighborhood 837",
+    "city": "Nashik",
+    "crime": 4.3,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 4
+  },
+  {
+    "name": "Hyderabad Neighborhood 838",
+    "city": "Hyderabad",
+    "crime": 3.0,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Ranchi Neighborhood 839",
+    "city": "Ranchi",
+    "crime": 1.2,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Madurai Neighborhood 840",
+    "city": "Madurai",
+    "crime": 5.7,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Raipur Neighborhood 841",
+    "city": "Raipur",
+    "crime": 4.9,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 7
+  },
+  {
+    "name": "Indore Neighborhood 842",
+    "city": "Indore",
+    "crime": 2.6,
+    "schools": 1,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Agra Neighborhood 843",
+    "city": "Agra",
+    "crime": 3.8,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Ludhiana Neighborhood 844",
+    "city": "Ludhiana",
+    "crime": 8.9,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 9
+  },
+  {
+    "name": "Hyderabad Neighborhood 845",
+    "city": "Hyderabad",
+    "crime": 3.5,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 10
+  },
+  {
+    "name": "Kochi Neighborhood 846",
+    "city": "Kochi",
+    "crime": 3.6,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Kanpur Neighborhood 847",
+    "city": "Kanpur",
+    "crime": 5.3,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Patna Neighborhood 848",
+    "city": "Patna",
+    "crime": 3.4,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 1,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Indore Neighborhood 849",
+    "city": "Indore",
+    "crime": 7.0,
+    "schools": 2,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Jodhpur Neighborhood 850",
+    "city": "Jodhpur",
+    "crime": 5.0,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Nashik Neighborhood 851",
+    "city": "Nashik",
+    "crime": 2.6,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Bangalore Neighborhood 852",
+    "city": "Bangalore",
+    "crime": 9.3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 853",
+    "city": "Chennai",
+    "crime": 7.9,
+    "schools": 5,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Nagpur Neighborhood 854",
+    "city": "Nagpur",
+    "crime": 4.5,
+    "schools": 5,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Ahmedabad Neighborhood 855",
+    "city": "Ahmedabad",
+    "crime": 8.1,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Nagpur Neighborhood 856",
+    "city": "Nagpur",
+    "crime": 4.8,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Bangalore Neighborhood 857",
+    "city": "Bangalore",
+    "crime": 1.2,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Surat Neighborhood 858",
+    "city": "Surat",
+    "crime": 1.2,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 9
+  },
+  {
+    "name": "Varanasi Neighborhood 859",
+    "city": "Varanasi",
+    "crime": 8.9,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Chandigarh Neighborhood 860",
+    "city": "Chandigarh",
+    "crime": 9.0,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Amritsar Neighborhood 861",
+    "city": "Amritsar",
+    "crime": 9.6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Guwahati Neighborhood 862",
+    "city": "Guwahati",
+    "crime": 5.0,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Nagpur Neighborhood 863",
+    "city": "Nagpur",
+    "crime": 5.1,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Pune Neighborhood 864",
+    "city": "Pune",
+    "crime": 8.8,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Varanasi Neighborhood 865",
+    "city": "Varanasi",
+    "crime": 6.1,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Patna Neighborhood 866",
+    "city": "Patna",
+    "crime": 2.7,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Bangalore Neighborhood 867",
+    "city": "Bangalore",
+    "crime": 7.0,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Chennai Neighborhood 868",
+    "city": "Chennai",
+    "crime": 5.3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 7
+  },
+  {
+    "name": "Pune Neighborhood 869",
+    "city": "Pune",
+    "crime": 9.4,
+    "schools": 7,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 870",
+    "city": "Vadodara",
+    "crime": 1.2,
+    "schools": 5,
+    "nightlife": 1,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Ludhiana Neighborhood 871",
+    "city": "Ludhiana",
+    "crime": 1.1,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Agra Neighborhood 872",
+    "city": "Agra",
+    "crime": 9.0,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 1
+  },
+  {
+    "name": "Kochi Neighborhood 873",
+    "city": "Kochi",
+    "crime": 3.7,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 7,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Hyderabad Neighborhood 874",
+    "city": "Hyderabad",
+    "crime": 9.4,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 6,
+    "affordability": 2,
+    "transport": 2
+  },
+  {
+    "name": "Bhopal Neighborhood 875",
+    "city": "Bhopal",
+    "crime": 5.9,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 4
+  },
+  {
+    "name": "Pune Neighborhood 876",
+    "city": "Pune",
+    "crime": 2.5,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 1
+  },
+  {
+    "name": "Patna Neighborhood 877",
+    "city": "Patna",
+    "crime": 3.0,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Patna Neighborhood 878",
+    "city": "Patna",
+    "crime": 8.2,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Amritsar Neighborhood 879",
+    "city": "Amritsar",
+    "crime": 5.6,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Pune Neighborhood 880",
+    "city": "Pune",
+    "crime": 8.1,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Mysore Neighborhood 881",
+    "city": "Mysore",
+    "crime": 1.1,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 4
+  },
+  {
+    "name": "Agra Neighborhood 882",
+    "city": "Agra",
+    "crime": 6.0,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 883",
+    "city": "Surat",
+    "crime": 2.0,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Kanpur Neighborhood 884",
+    "city": "Kanpur",
+    "crime": 4.1,
+    "schools": 8,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 2,
+    "transport": 7
+  },
+  {
+    "name": "Kanpur Neighborhood 885",
+    "city": "Kanpur",
+    "crime": 8.3,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Chandigarh Neighborhood 886",
+    "city": "Chandigarh",
+    "crime": 5.8,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 8,
+    "transport": 6
+  },
+  {
+    "name": "Delhi Neighborhood 887",
+    "city": "Delhi",
+    "crime": 9.0,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 10
+  },
+  {
+    "name": "Bhopal Neighborhood 888",
+    "city": "Bhopal",
+    "crime": 5.0,
+    "schools": 6,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Agra Neighborhood 889",
+    "city": "Agra",
+    "crime": 4.5,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Indore Neighborhood 890",
+    "city": "Indore",
+    "crime": 9.1,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 891",
+    "city": "Varanasi",
+    "crime": 9.5,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 2,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Vadodara Neighborhood 892",
+    "city": "Vadodara",
+    "crime": 1.5,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Hyderabad Neighborhood 893",
+    "city": "Hyderabad",
+    "crime": 3.7,
+    "schools": 3,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 3
+  },
+  {
+    "name": "Surat Neighborhood 894",
+    "city": "Surat",
+    "crime": 1.6,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 4,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Chandigarh Neighborhood 895",
+    "city": "Chandigarh",
+    "crime": 8.3,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 3,
+    "affordability": 10,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 896",
+    "city": "Bangalore",
+    "crime": 2.9,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Chennai Neighborhood 897",
+    "city": "Chennai",
+    "crime": 6.2,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Jaipur Neighborhood 898",
+    "city": "Jaipur",
+    "crime": 2.1,
+    "schools": 7,
+    "nightlife": 10,
+    "greenery": 4,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 899",
+    "city": "Bhopal",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Patna Neighborhood 900",
+    "city": "Patna",
+    "crime": 9.7,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 6,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 901",
+    "city": "Kolkata",
+    "crime": 4.6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 902",
+    "city": "Mysore",
+    "crime": 8.2,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Patna Neighborhood 903",
+    "city": "Patna",
+    "crime": 3.3,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 3
+  },
+  {
+    "name": "Kolkata Neighborhood 904",
+    "city": "Kolkata",
+    "crime": 3.8,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 3,
+    "transport": 7
+  },
+  {
+    "name": "Ahmedabad Neighborhood 905",
+    "city": "Ahmedabad",
+    "crime": 6.5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 7,
+    "transport": 2
+  },
+  {
+    "name": "Varanasi Neighborhood 906",
+    "city": "Varanasi",
+    "crime": 3.4,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Chennai Neighborhood 907",
+    "city": "Chennai",
+    "crime": 4.7,
+    "schools": 4,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Mumbai Neighborhood 908",
+    "city": "Mumbai",
+    "crime": 5.2,
+    "schools": 4,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 1,
+    "transport": 9
+  },
+  {
+    "name": "Mumbai Neighborhood 909",
+    "city": "Mumbai",
+    "crime": 2.4,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Mysore Neighborhood 910",
+    "city": "Mysore",
+    "crime": 5.0,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 4
+  },
+  {
+    "name": "Jaipur Neighborhood 911",
+    "city": "Jaipur",
+    "crime": 9.4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 7,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Bhopal Neighborhood 912",
+    "city": "Bhopal",
+    "crime": 3.4,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Guwahati Neighborhood 913",
+    "city": "Guwahati",
+    "crime": 2.9,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 3,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Nashik Neighborhood 914",
+    "city": "Nashik",
+    "crime": 7.6,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 3,
+    "affordability": 1,
+    "transport": 4
+  },
+  {
+    "name": "Patna Neighborhood 915",
+    "city": "Patna",
+    "crime": 9.5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Pune Neighborhood 916",
+    "city": "Pune",
+    "crime": 7.2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6,
+    "affordability": 1,
+    "transport": 7
+  },
+  {
+    "name": "Agra Neighborhood 917",
+    "city": "Agra",
+    "crime": 3.2,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 8
+  },
+  {
+    "name": "Indore Neighborhood 918",
+    "city": "Indore",
+    "crime": 7.4,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Bhopal Neighborhood 919",
+    "city": "Bhopal",
+    "crime": 1.5,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 8
+  },
+  {
+    "name": "Nashik Neighborhood 920",
+    "city": "Nashik",
+    "crime": 4.0,
+    "schools": 1,
+    "nightlife": 10,
+    "greenery": 8,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Varanasi Neighborhood 921",
+    "city": "Varanasi",
+    "crime": 4.1,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Hyderabad Neighborhood 922",
+    "city": "Hyderabad",
+    "crime": 7.7,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 9,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Delhi Neighborhood 923",
+    "city": "Delhi",
+    "crime": 8.5,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 2
+  },
+  {
+    "name": "Kochi Neighborhood 924",
+    "city": "Kochi",
+    "crime": 9.2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Kanpur Neighborhood 925",
+    "city": "Kanpur",
+    "crime": 3.3,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Guwahati Neighborhood 926",
+    "city": "Guwahati",
+    "crime": 8.3,
+    "schools": 5,
+    "nightlife": 3,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 5
+  },
+  {
+    "name": "Ludhiana Neighborhood 927",
+    "city": "Ludhiana",
+    "crime": 1.9,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 2,
+    "transport": 1
+  },
+  {
+    "name": "Surat Neighborhood 928",
+    "city": "Surat",
+    "crime": 3.8,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Jodhpur Neighborhood 929",
+    "city": "Jodhpur",
+    "crime": 1.7,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 8,
+    "transport": 4
+  },
+  {
+    "name": "Amritsar Neighborhood 930",
+    "city": "Amritsar",
+    "crime": 2.7,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 10
+  },
+  {
+    "name": "Vadodara Neighborhood 931",
+    "city": "Vadodara",
+    "crime": 1.5,
+    "schools": 5,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 932",
+    "city": "Nagpur",
+    "crime": 2.4,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 4,
+    "affordability": 9,
+    "transport": 1
+  },
+  {
+    "name": "Amritsar Neighborhood 933",
+    "city": "Amritsar",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 3,
+    "greenery": 7,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Raipur Neighborhood 934",
+    "city": "Raipur",
+    "crime": 2.2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 1,
+    "affordability": 7,
+    "transport": 9
+  },
+  {
+    "name": "Nagpur Neighborhood 935",
+    "city": "Nagpur",
+    "crime": 7.5,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 9,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Guwahati Neighborhood 936",
+    "city": "Guwahati",
+    "crime": 6.2,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 1
+  },
+  {
+    "name": "Varanasi Neighborhood 937",
+    "city": "Varanasi",
+    "crime": 3.3,
+    "schools": 6,
+    "nightlife": 1,
+    "greenery": 7,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 938",
+    "city": "Bangalore",
+    "crime": 8.0,
+    "schools": 1,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 5,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 939",
+    "city": "Varanasi",
+    "crime": 3.9,
+    "schools": 4,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 9
+  },
+  {
+    "name": "Lucknow Neighborhood 940",
+    "city": "Lucknow",
+    "crime": 9.6,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Vadodara Neighborhood 941",
+    "city": "Vadodara",
+    "crime": 9.6,
+    "schools": 1,
+    "nightlife": 1,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 4
+  },
+  {
+    "name": "Bangalore Neighborhood 942",
+    "city": "Bangalore",
+    "crime": 6.4,
+    "schools": 1,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 10,
+    "transport": 10
+  },
+  {
+    "name": "Varanasi Neighborhood 943",
+    "city": "Varanasi",
+    "crime": 7.3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 5,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Hyderabad Neighborhood 944",
+    "city": "Hyderabad",
+    "crime": 1.1,
+    "schools": 3,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Bangalore Neighborhood 945",
+    "city": "Bangalore",
+    "crime": 2.5,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Nagpur Neighborhood 946",
+    "city": "Nagpur",
+    "crime": 7.3,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Bangalore Neighborhood 947",
+    "city": "Bangalore",
+    "crime": 9.4,
+    "schools": 1,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 3
+  },
+  {
+    "name": "Mumbai Neighborhood 948",
+    "city": "Mumbai",
+    "crime": 8.3,
+    "schools": 5,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Patna Neighborhood 949",
+    "city": "Patna",
+    "crime": 6.2,
+    "schools": 2,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 3
+  },
+  {
+    "name": "Kolkata Neighborhood 950",
+    "city": "Kolkata",
+    "crime": 3.7,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 3,
+    "affordability": 5,
+    "transport": 5
+  },
+  {
+    "name": "Bangalore Neighborhood 951",
+    "city": "Bangalore",
+    "crime": 7.4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 5
+  },
+  {
+    "name": "Pune Neighborhood 952",
+    "city": "Pune",
+    "crime": 7.5,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 10
+  },
+  {
+    "name": "Mysore Neighborhood 953",
+    "city": "Mysore",
+    "crime": 5.0,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8,
+    "affordability": 4,
+    "transport": 7
+  },
+  {
+    "name": "Mumbai Neighborhood 954",
+    "city": "Mumbai",
+    "crime": 1.6,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Bangalore Neighborhood 955",
+    "city": "Bangalore",
+    "crime": 1.8,
+    "schools": 2,
+    "nightlife": 7,
+    "greenery": 3,
+    "affordability": 8,
+    "transport": 10
+  },
+  {
+    "name": "Amritsar Neighborhood 956",
+    "city": "Amritsar",
+    "crime": 3.6,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 10,
+    "transport": 7
+  },
+  {
+    "name": "Mysore Neighborhood 957",
+    "city": "Mysore",
+    "crime": 6.3,
+    "schools": 9,
+    "nightlife": 1,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Agra Neighborhood 958",
+    "city": "Agra",
+    "crime": 5.9,
+    "schools": 4,
+    "nightlife": 5,
+    "greenery": 9,
+    "affordability": 6,
+    "transport": 1
+  },
+  {
+    "name": "Ranchi Neighborhood 959",
+    "city": "Ranchi",
+    "crime": 5.1,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 4,
+    "affordability": 1,
+    "transport": 5
+  },
+  {
+    "name": "Lucknow Neighborhood 960",
+    "city": "Lucknow",
+    "crime": 6.7,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10,
+    "affordability": 9,
+    "transport": 8
+  },
+  {
+    "name": "Surat Neighborhood 961",
+    "city": "Surat",
+    "crime": 3.9,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 1,
+    "affordability": 5,
+    "transport": 9
+  },
+  {
+    "name": "Raipur Neighborhood 962",
+    "city": "Raipur",
+    "crime": 8.7,
+    "schools": 5,
+    "nightlife": 7,
+    "greenery": 5,
+    "affordability": 8,
+    "transport": 5
+  },
+  {
+    "name": "Agra Neighborhood 963",
+    "city": "Agra",
+    "crime": 7.7,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 3,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Surat Neighborhood 964",
+    "city": "Surat",
+    "crime": 6.1,
+    "schools": 1,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 5,
+    "transport": 6
+  },
+  {
+    "name": "Raipur Neighborhood 965",
+    "city": "Raipur",
+    "crime": 9.5,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 6
+  },
+  {
+    "name": "Amritsar Neighborhood 966",
+    "city": "Amritsar",
+    "crime": 6.4,
+    "schools": 5,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Varanasi Neighborhood 967",
+    "city": "Varanasi",
+    "crime": 2.8,
+    "schools": 7,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 3
+  },
+  {
+    "name": "Varanasi Neighborhood 968",
+    "city": "Varanasi",
+    "crime": 6.7,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 9
+  },
+  {
+    "name": "Bangalore Neighborhood 969",
+    "city": "Bangalore",
+    "crime": 1.4,
+    "schools": 9,
+    "nightlife": 10,
+    "greenery": 2,
+    "affordability": 7,
+    "transport": 6
+  },
+  {
+    "name": "Hyderabad Neighborhood 970",
+    "city": "Hyderabad",
+    "crime": 4.7,
+    "schools": 5,
+    "nightlife": 8,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 9
+  },
+  {
+    "name": "Raipur Neighborhood 971",
+    "city": "Raipur",
+    "crime": 10.0,
+    "schools": 2,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 8
+  },
+  {
+    "name": "Jaipur Neighborhood 972",
+    "city": "Jaipur",
+    "crime": 4.7,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 2,
+    "affordability": 4,
+    "transport": 1
+  },
+  {
+    "name": "Delhi Neighborhood 973",
+    "city": "Delhi",
+    "crime": 7.9,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 9,
+    "affordability": 1,
+    "transport": 10
+  },
+  {
+    "name": "Delhi Neighborhood 974",
+    "city": "Delhi",
+    "crime": 6.3,
+    "schools": 1,
+    "nightlife": 8,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Hyderabad Neighborhood 975",
+    "city": "Hyderabad",
+    "crime": 6.8,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 6,
+    "transport": 6
+  },
+  {
+    "name": "Ranchi Neighborhood 976",
+    "city": "Ranchi",
+    "crime": 5.1,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 8
+  },
+  {
+    "name": "Mysore Neighborhood 977",
+    "city": "Mysore",
+    "crime": 3.6,
+    "schools": 4,
+    "nightlife": 4,
+    "greenery": 6,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Vadodara Neighborhood 978",
+    "city": "Vadodara",
+    "crime": 8.4,
+    "schools": 2,
+    "nightlife": 8,
+    "greenery": 1,
+    "affordability": 8,
+    "transport": 8
+  },
+  {
+    "name": "Jodhpur Neighborhood 979",
+    "city": "Jodhpur",
+    "crime": 7.5,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 4,
+    "affordability": 5,
+    "transport": 8
+  },
+  {
+    "name": "Nagpur Neighborhood 980",
+    "city": "Nagpur",
+    "crime": 4.5,
+    "schools": 10,
+    "nightlife": 10,
+    "greenery": 7,
+    "affordability": 1,
+    "transport": 2
+  },
+  {
+    "name": "Raipur Neighborhood 981",
+    "city": "Raipur",
+    "crime": 3.9,
+    "schools": 8,
+    "nightlife": 10,
+    "greenery": 10,
+    "affordability": 6,
+    "transport": 3
+  },
+  {
+    "name": "Nagpur Neighborhood 982",
+    "city": "Nagpur",
+    "crime": 5.1,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 3
+  },
+  {
+    "name": "Chennai Neighborhood 983",
+    "city": "Chennai",
+    "crime": 2.0,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 7,
+    "affordability": 2,
+    "transport": 8
+  },
+  {
+    "name": "Ranchi Neighborhood 984",
+    "city": "Ranchi",
+    "crime": 4.1,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 2,
+    "affordability": 6,
+    "transport": 2
+  },
+  {
+    "name": "Kolkata Neighborhood 985",
+    "city": "Kolkata",
+    "crime": 3.1,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8,
+    "affordability": 9,
+    "transport": 3
+  },
+  {
+    "name": "Kochi Neighborhood 986",
+    "city": "Kochi",
+    "crime": 8.7,
+    "schools": 2,
+    "nightlife": 6,
+    "greenery": 9,
+    "affordability": 2,
+    "transport": 6
+  },
+  {
+    "name": "Bhopal Neighborhood 987",
+    "city": "Bhopal",
+    "crime": 9.9,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 4,
+    "affordability": 3,
+    "transport": 2
+  },
+  {
+    "name": "Bangalore Neighborhood 988",
+    "city": "Bangalore",
+    "crime": 2.0,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 10
+  },
+  {
+    "name": "Nagpur Neighborhood 989",
+    "city": "Nagpur",
+    "crime": 4.8,
+    "schools": 3,
+    "nightlife": 9,
+    "greenery": 10,
+    "affordability": 4,
+    "transport": 8
+  },
+  {
+    "name": "Ranchi Neighborhood 990",
+    "city": "Ranchi",
+    "crime": 9.6,
+    "schools": 1,
+    "nightlife": 4,
+    "greenery": 9,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Mumbai Neighborhood 991",
+    "city": "Mumbai",
+    "crime": 7.5,
+    "schools": 3,
+    "nightlife": 10,
+    "greenery": 6,
+    "affordability": 8,
+    "transport": 1
+  },
+  {
+    "name": "Surat Neighborhood 992",
+    "city": "Surat",
+    "crime": 2.6,
+    "schools": 4,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 10
+  },
+  {
+    "name": "Ranchi Neighborhood 993",
+    "city": "Ranchi",
+    "crime": 4.6,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 6,
+    "affordability": 5,
+    "transport": 2
+  },
+  {
+    "name": "Guwahati Neighborhood 994",
+    "city": "Guwahati",
+    "crime": 2.0,
+    "schools": 5,
+    "nightlife": 10,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 9
+  },
+  {
+    "name": "Jaipur Neighborhood 995",
+    "city": "Jaipur",
+    "crime": 9.2,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 4,
+    "transport": 3
+  },
+  {
+    "name": "Nashik Neighborhood 996",
+    "city": "Nashik",
+    "crime": 4.9,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5,
+    "affordability": 9,
+    "transport": 9
+  },
+  {
+    "name": "Jodhpur Neighborhood 997",
+    "city": "Jodhpur",
+    "crime": 1.6,
+    "schools": 4,
+    "nightlife": 9,
+    "greenery": 3,
+    "affordability": 3,
+    "transport": 5
+  },
+  {
+    "name": "Kolkata Neighborhood 998",
+    "city": "Kolkata",
+    "crime": 6.8,
+    "schools": 2,
+    "nightlife": 5,
+    "greenery": 5,
+    "affordability": 10,
+    "transport": 4
+  },
+  {
+    "name": "Patna Neighborhood 999",
+    "city": "Patna",
+    "crime": 7.1,
+    "schools": 3,
+    "nightlife": 2,
+    "greenery": 5,
+    "affordability": 3,
+    "transport": 8
+  },
+  {
+    "name": "Chennai Neighborhood 1000",
+    "city": "Chennai",
+    "crime": 2.2,
+    "schools": 10,
+    "nightlife": 1,
+    "greenery": 2,
+    "affordability": 2,
+    "transport": 10
+  }
+]

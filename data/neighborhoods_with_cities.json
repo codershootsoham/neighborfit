@@ -1,0 +1,8002 @@
+[
+  {
+    "name": "Salt Lake Sector 1 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 1 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 1 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 J",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 1 N",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 1 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 1 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 1 Y",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 1 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 2 A",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 2 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 G",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 2 H",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 I",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 P",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 2 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 R",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 2 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 2 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 2 V",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 W",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 Y",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 2 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 A",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 F",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 H",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 I",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 O",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 R",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 3 U",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 3 V",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 3 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 4 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 B",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 E",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 H",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 I",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 J",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 L",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 M",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 N",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 O",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 Q",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 R",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 S",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 T",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 U",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 V",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 4 W",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 X",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 4 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 4 Z",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 A",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 B",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 D",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 G",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 I",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 Q",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 T",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 5 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 W",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 X",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 5 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 5 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 6 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 6 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 6 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 6 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 6 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 6 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 6 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 6 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 A",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 7 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 D",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 7 F",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 G",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 H",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 I",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 J",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 7 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 M",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 N",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 O",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 P",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 Q",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 7 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 7 S",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 U",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 V",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 7 W",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 Y",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 7 Z",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 H",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 I",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 P",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 Q",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 8 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 T",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 8 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 8 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 9 A",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 E",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 F",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 G",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 H",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 J",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 N",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 O",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 P",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 Q",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 R",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 S",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 U",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 V",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 W",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 9 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 9 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 9 Z",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 P",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 Q",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 R",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 U",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 10 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 10 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 10 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 11 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 B",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 C",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 G",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 P",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 R",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 S",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 11 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 11 X",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 Y",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 11 Z",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 O",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 12 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 12 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 12 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 13 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 13 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 13 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 13 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 13 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 13 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 13 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 A",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 C",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 O",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 Q",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 R",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 14 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 14 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 14 Z",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 15 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 R",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 15 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 X",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 15 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 15 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 16 A",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 E",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 M",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 P",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 S",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 T",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 16 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 X",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 16 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 16 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 J",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 17 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 5
+  },
+  {
+    "name": "Salt Lake Sector 17 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 17 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 18 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 B",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 18 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 I",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 18 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 18 N",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "Salt Lake Sector 18 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 R",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 18 T",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 Y",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 18 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "Salt Lake Sector 19 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 M",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 R",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 19 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 19 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 19 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 C",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 E",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 J",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 L",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 O",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "Salt Lake Sector 20 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "Salt Lake Sector 20 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 Y",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake Sector 20 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 E",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 J",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 O",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 1 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 1 Y",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 1 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 2 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 C",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 H",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 I",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 J",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 L",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 N",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 O",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 P",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 Q",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 R",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 2 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 T",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 U",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 V",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 W",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 2 Y",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 2 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 Q",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 R",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 3 U",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 3 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 3 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 4 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 4 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 4 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 4 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 4 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 4 S",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 4 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 Y",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 4 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 B",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 D",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 E",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 G",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 I",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 R",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 S",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 U",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 5 W",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 5 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 5 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 6 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 6 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 E",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 F",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 6 G",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 6 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 I",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 J",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 6 L",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 N",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 O",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 Q",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 S",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 U",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 10,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 6 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 6 Z",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 7 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 F",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 G",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 I",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 J",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 L",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 M",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 N",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 O",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 8,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 R",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 S",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 7 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 U",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 V",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 7 Y",
+    "city": "Kolkata",
+    "crime": 1,
+    "schools": 7,
+    "nightlife": 2,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 7 Z",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 A",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 B",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 K",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 L",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 N",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 P",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 S",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 8 T",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 U",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 8 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 X",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 8 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 9 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 9 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 H",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 9 K",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 9 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 M",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 R",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 9 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 9 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 9 Y",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 9 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 A",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 B",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 E",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 H",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 N",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 P",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 S",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 10 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 W",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 X",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 10 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 10 Z",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 11 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 C",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 D",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 E",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 F",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 H",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 J",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 11 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 11 M",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 N",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 11 O",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 Q",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 R",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 T",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 W",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 11 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 11 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 11 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "New Town Block 12 A",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 C",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 12 D",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 12 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 12 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 G",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 12 H",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 12 J",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 12 K",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 L",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 M",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 12 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 O",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 12 P",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 12 Q",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 R",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 S",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 10,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 T",
+    "city": "Kolkata",
+    "crime": 2,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 12 U",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 10,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 V",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 12 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 A",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 D",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 F",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 G",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 I",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 J",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 K",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 M",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 N",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 O",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 13 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 U",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 V",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 W",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 X",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 13 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 13 Z",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 A",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 B",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 C",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 D",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 E",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 F",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 G",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 H",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 I",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 J",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 L",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 N",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 P",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 Q",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 R",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 S",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 T",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 U",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 10
+  },
+  {
+    "name": "New Town Block 14 V",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 14 W",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 X",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 Y",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 14 Z",
+    "city": "Kolkata",
+    "crime": 3,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 9
+  },
+  {
+    "name": "New Town Block 15 A",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 B",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 C",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 D",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 E",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 15 F",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 15 G",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 H",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 I",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 J",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 K",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 L",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 M",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 N",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 O",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 P",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 Q",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 R",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 15 S",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 T",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 3,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 U",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 V",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 W",
+    "city": "Kolkata",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 3,
+    "greenery": 6
+  },
+  {
+    "name": "New Town Block 15 X",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 7
+  },
+  {
+    "name": "New Town Block 15 Y",
+    "city": "Kolkata",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "New Town Block 15 Z",
+    "city": "Kolkata",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 4,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 1 A",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 B",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 C",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 D",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 E",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 F",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 G",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 H",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 I",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 J",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 K",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 L",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 9,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 M",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 N",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 O",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 P",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 Q",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 10,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 R",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 S",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 T",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 9,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 U",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 V",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 W",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 1 X",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 9,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 1 Y",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 1 Z",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 10,
+    "nightlife": 8,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 A",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 B",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 C",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 D",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 E",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 F",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 G",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 H",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 I",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 J",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 K",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 L",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 M",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 N",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 O",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 P",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 Q",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 R",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 S",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 9,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 T",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 U",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 2 V",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 W",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 2 X",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 Y",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 2 Z",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 3 A",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 B",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 C",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 D",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 E",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 F",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 G",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 H",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 I",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 J",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 K",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 L",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 M",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 N",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 O",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 P",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 8,
+    "nightlife": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 Q",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Indiranagar Block 3 R",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 S",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 T",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 3 U",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 V",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 W",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 X",
+    "city": "Bangalore",
+    "crime": 6,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 Y",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 8
+  },
+  {
+    "name": "Indiranagar Block 3 Z",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 8,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 4 A",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 4 B",
+    "city": "Bangalore",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 5,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 C",
+    "city": "Bangalore",
+    "crime": 3,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 D",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 4 E",
+    "city": "Bangalore",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 4 F",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 8,
+    "nightlife": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar Block 4 G",
+    "city": "Bangalore",
+    "crime": 5,
+    "schools": 7,
+    "nightlife": 5,
+    "greenery": 5
+  },
+  {
+    "name": "Indiranagar Block 4 H",
+    "city": "Bangalore",
+    "crime": 3,
+    "schools": 6,
+    "nightlife": 5,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 I",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 6,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 J",
+    "city": "Bangalore",
+    "crime": 3,
+    "schools": 8,
+    "nightlife": 6,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 K",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 7,
+    "nightlife": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Indiranagar Block 4 L",
+    "city": "Bangalore",
+    "crime": 4,
+    "schools": 6,
+    "nightlife": 6,
+    "greenery": 4
+  }
+]
